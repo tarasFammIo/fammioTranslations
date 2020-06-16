@@ -118,11 +118,11 @@
               "subs": "Количество подписчиков",
               "favourites": "Количество Избранных",
               "bookmark": "Добавить в закладки ваш любимый результат",
-              "open": "Open result's source in a new window",
+              "open": "Открыть источник результата в новом окне",
               "remove": "Убрать результат",
               "shareOn": "Поделиться в соцсетях",
-              "emails": "Share this result by email",
-              "emailsList": "Enter emails separated by comma",
+              "emails": "Отправить результат на электронную почту",
+              "emailsList": "Напишите через запятую адреса электронной почты",
               "language": "Язык"
             }
           },
@@ -134,7 +134,7 @@
             "threeMonths": "За последние 3 месяца",
             "custom": "Пользовательская дата"
           },
-          "getNew": "Click on New Posts to get fresh results",
+          "getNew": "Нажмите на Новые сообщения, чтобы получить новые результаты",
           "noData": "Нет данных",
           "totalFor": "Все результаты для",
           "loading": "Загрузка..."
@@ -233,16 +233,16 @@
     },
     "user": {
       "updateUser": {
-        "title": "Update Your Account Data",
+        "title": "Обновите данные учетной записи",
         "linkBack": "Вернуться"
       },
       "payment": {
-        "getPackage": "Log in to get your package"
+        "getPackage": "Войдите, чтобы получить пакет"
       }
     }
   },
   "filters": {
-    "favourites": "Show favorites only"
+    "favourites": "Показать только избранное"
   },
   "forms": {
     "log": "Войдите в свою учетную запись",
@@ -254,75 +254,75 @@
     "signIn": {
       "title": "Войти в Fammio",
       "subtitle": "У вас нет учетной записи?",
-      "unath": "Unauthenticated",
-      "email": "Email address",
-      "password": "Password",
-      "submit": "Sign in",
+      "unath": "Неопознанный пользователь",
+      "email": "Адрес электронной почты",
+      "password": "Пароль",
+      "submit": "Войти",
       "newAcc": "Начать",
-      "resetPass": "Forgot your password?",
-      "subtitleVerify": "Haven't confirmed your email yet?",
-      "verifyOpen": "Confirm now"
+      "resetPass": "Забыли пароль?",
+      "subtitleVerify": "Вы еще не подтвердили email?",
+      "verifyOpen": "Подтвердить сейчас"
     },
     "signUp": {
-      "title": "Sign Up",
+      "title": "Зарегистрироваться",
       "subtitle": "У вас уже есть учетная запись?",
       "name": "Имя пользователя",
       "firstName": "Имя",
       "lastName": "Фамилия",
       "email": "example@gmail.com",
-      "password": "Password",
-      "submit": "Sign Up",
+      "password": "Пароль",
+      "submit": "Зарегистрироваться",
       "success": "Учетная запись создана. На вашу почту прийдет письмо с подтверждением."
     },
     "updatePersonalData": {
-      "title": "User information",
-      "company": "Company",
+      "title": "Информация о пользователе",
+      "company": "Компания",
       "email": "Почта",
       "firstName": "Имя",
       "lastName": "Фамилия",
       "job": "Должность",
       "notifications": "Получать push-уведомления",
-      "update": "Save",
+      "update": "Сохранить",
       "delete": "Удалить учетную запись",
       "updatedInformation": "Your personal information has been updated!",
-      "updatedPassword": "Your password has been updated!",
+      "updatedPassword": "Ваш пароль обновлен!",
       "updatedSocial": "Your social links have been updated!",
-      "error": "Failed to update data."
+      "error": "Ошибка при обновлении данных."
     },
     "updatePassword": {
-      "title": "Password",
-      "newPassword": "New password",
-      "confirmPassword": "Confirm new password",
-      "oldPassword": "Current password",
-      "update": "Change password",
-      "updated": "Your password has been updated!"
+      "title": "Пароль",
+      "newPassword": "Новый пароль",
+      "confirmPassword": "Подтвердить новый пароль",
+      "oldPassword": "Текущий пароль",
+      "update": "Изменить пароль",
+      "updated": "Ваш пароль обновлен!"
     },
     "updateSocial": {
       "title": "Social"
     },
     "updateProjects": {
-      "title": "Project settings",
-      "delete": "Delete project"
+      "title": "Настройки проекта",
+      "delete": "Удалить проект"
     },
     "passwordReset": {
-      "resetTitle": "Reset password",
-      "title": "Forgot your password? ",
-      "subtitle": "Enter your email address below and we'll get you back on track",
+      "resetTitle": "Сбросить пароль",
+      "title": "Забыли пароль? ",
+      "subtitle": "Введите ваш адрес электронной почты ниже, и мы вам поможем",
       "subtitleReset": " ",
-      "confirmPassword": "Confirm new password",
-      "back": "Back to Sign In",
-      "password": "New password",
-      "submit": "Request а password reset link",
-      "reset": "Confirm new password",
-      "success": "Password has been successfully reset",
-      "successText": "Password reset request has been sent"
+      "confirmPassword": "Подтвердить новый пароль",
+      "back": "Вернуться к входу",
+      "password": "Новый пароль",
+      "submit": "Cсылка для сброса пароля",
+      "reset": "Подтвердить новый пароль",
+      "success": "Пароль успешно сброшен",
+      "successText": "Запрос на сброс пароля был отправлен"
     },
     "emailPrompt": {
-      "title": "Enter Your Email",
-      "email": "Email",
-      "submit": "Send request",
-      "success": "Request sent",
-      "successText": "Check your email inbox for the email with the password reset link."
+      "title": "Введите ваш адрес электронной почты",
+      "email": "Почта",
+      "submit": "Отправить запрос",
+      "success": "Запрос отправлен",
+      "successText": "Проверьте свою электронную почту. Там будет ссылка на сброс пароля."
     },
     "resendEmail": {
       "title": "Resend email confirmation letter",
@@ -331,63 +331,63 @@
       "success": "Confirmation link has been sent"
     },
     "emailActivation": {
-      "successText": "Your email has been successfully confirmed! Proceed to Log In with your account.",
+      "successText": "Ваш email-адрес успешно подтвержден! Войдите в свою учетную запись.",
       "errorText": "Sorry. We couldn't confirm your email address.",
-      "back": "Back to Sign Up"
+      "back": "Вернуться к регистрации"
     },
     "projectForm": {
       "titleUser": "Enter the data of your",
-      "titleUserCompany": "company",
-      "titleUserOr": "or",
-      "titleUserProduct": "product",
+      "titleUserCompany": "компания",
+      "titleUserOr": "или",
+      "titleUserProduct": "товар",
       "titleUserMonitor": "отслеживать",
-      "titleCompetitor": "Competitors",
-      "titleCompetitorBold": "Your competitor",
-      "titleUserModal": "Create project",
-      "subTitle": "Free forever. No card required upfront.",
-      "projectName": "Project name",
-      "projectNamePlaceholder": "Type project name",
-      "projectEx": "e.g. Fammio Project",
-      "projectExCompetitor": "e.g. Competitor's Project",
+      "titleCompetitor": "Конкуренты",
+      "titleCompetitorBold": "Ваш конкурент",
+      "titleUserModal": "Создать проект",
+      "subTitle": "Бесплатно навсегда. Карты не нужно.",
+      "projectName": "Название проекта",
+      "projectNamePlaceholder": "Введите название проекта",
+      "projectEx": "например, Fammio Project",
+      "projectExCompetitor": "например, Competitor's Project",
       "projectHelp": "Enter the name of your company or product",
       "projectHelpCompetitor": "Enter the name of your competitor's company or product",
-      "brandCategory": "Brand Category",
-      "country": "Country",
-      "selectPlace": "Select %{selector} to search in",
-      "language": "Language",
-      "keywords": "Keywords for tracking",
+      "brandCategory": "Категория бренда",
+      "country": "Страна",
+      "selectPlace": "Выберите %{selector} для поиска",
+      "language": "Язык",
+      "keywords": "Ключевые слова для отслеживания",
       "keywordsPlaceholder": "Type keywords separated by commas or enter",
-      "keywordsEx": "e.g. fammio, famm.io, famm (Separated by commas or enter)",
-      "keywordsExCompetitor": "e.g. Keyword1, Keyword2, Keyword3 (Separated by commas or enter)",
-      "keywordsHelp": "Enter keywords to monitor project-related mentions",
-      "requiredKeywords": "Must include keywords",
+      "keywordsEx": "например, fammio, famm.io, famm (через запятую или enter)",
+      "keywordsExCompetitor": "например, Keyword1, Keyword2, Keyword3 (через запятую или enter)",
+      "keywordsHelp": "Введите ключевые слова для отслеживания упоминаний о проекте",
+      "requiredKeywords": "Должно включать ключевые слова",
       "excludedKeywords": "Excluded keywords"
     },
     "socialData": {
       "title": "Add social pages that you want to monitor",
-      "insertLink": "Paste link here"
+      "insertLink": "Вставить ссылку здесь"
     },
     "emailShare": {
       "success": "Shared to specified emails"
     }
   },
   "billingInfo": {
-    "title": "Billing",
-    "subscription": "Subscription",
-    "projects": "Projects",
+    "title": "Оплата",
+    "subscription": "Подписка",
+    "projects": "Проекты",
     "promo": "Stay on top! Upgrade now and don't miss a single mention, be it yours or competitor's.",
     "next": "Plan expires on",
     "history": "Payment history",
-    "plan": "Plan",
-    "date": "Date",
-    "amount": "Payment amount",
-    "noHist": "No payments"
+    "plan": "Тариф",
+    "date": "Дата",
+    "amount": "Сумма оплаты",
+    "noHist": "Нет платежей"
   },
   "plans": {
     "free": "Starter",
     "standard": "Pro",
     "upgrade": "Upgrade",
-    "update": "Upgrade plan",
+    "update": "Улучшить тариф",
     "updatePro": "Get more mentions",
     "wait": "Wait till the plan quota refreshes next billing month",
     "continue": "Continue with the free plan",
@@ -415,7 +415,7 @@
         "body": "Always be aware of fresh news and mentions and receive more frequent updates."
       },
       "personal": {
-        "title": "Custom setup of your account",
+        "title": "Настройка учетной записи",
         "body": "We will personally assist you in launching your project and setting up keywords for monitoring."
       }
     },
@@ -423,7 +423,7 @@
       "title": "Your plan has expired",
       "body": "It looks like your subscription has ended and wasn’t automatically renewed. Please, choose a plan to continue.",
       "footer": "Encountered a problem? Contact our Customer Care team and we’ll help you with any issue. ",
-      "btnPlan": "Choose a plan"
+      "btnPlan": "Выбор тарифа"
     },
     "subLimits": {
       "title": "Now that’s what we call productivity",
@@ -437,10 +437,10 @@
     }
   },
   "tour": {
-    "welcome": "Welcome to Fammio!",
-    "skip": "Skip it now",
-    "start": "Start tour",
-    "upgrade": "Upgrade",
+    "welcome": "Добро пожаловать в Fammio!",
+    "skip": "Пропустить сейчас",
+    "start": "Начать тур",
+    "upgrade": "Улучшить",
     "firstBoarding": {
       "step1": {
         "author": "My name is Vova, a Marketing Specialist at Fammio. I’m very excited you joined us. ",
@@ -484,7 +484,7 @@
       "keywords": {
         "title": "Keywords for tracking",
         "hint": "In this field, you must enter keywords related to your company/product name.",
-        "body": "The right keywords for the Fammio company will be famm.io(company website), fammio(general company name), fammioapp(twitter account name) and so on."
+        "body": "Ключевые слова для Fammio: famm.io(веб-сайт компании), fammio(общее название компании), fammioapp(имя twitter аккаунта) и так далее."
       }
     },
     "reachWider": {
@@ -516,7 +516,7 @@
       "enterBrandName": "👉 the brand name of your product",
       "enterKeywords": "👉 keywords that describe the product for mentions search* ",
       "tryDifferentSpelling": "*Try different spelling of these keywords. It must be from 1 to N-word phrases that describe your product. ",
-      "hint": "Hint: ",
+      "hint": "Подсказка: ",
       "hintEnter": "If you're entering several keywords, press Enter after each one.",
       "addKeywords": "You can add N keywords to each project. It depends on your package plan.",
       "specifyEach": "Specify each competitor to find related content, references, and mentions.",
@@ -533,8 +533,8 @@
       "youtubeOnboard": "As well, you can watch tutorials on"
     },
     "dashboardStep1": {
-      "hurray": "Hurray 🎉",
-      "firstResults": "Here are your first results!",
+      "hurray": "Ура 🎉",
+      "firstResults": "Ваши первые результаты!",
       "results": "Can you believe how many important mentions you've almost missed?",
       "neverMiss": "You'll never miss a thing again 💪",
       "inform": "You will receive emails about projects’ new notifications every day 📨",
@@ -542,18 +542,18 @@
     },
     "dashboardStep2": {
       "menu": "This is your Brand Monitoring Dashboard",
-      "placeFor": "Here you can:",
-      "placeForMonitoring": "✅ monitor your brand mentions and compare them to your competitors';",
-      "placeForChecking": "✅ check and react to your mentions as soon as they appear;",
-      "placeForLearning": "✅ learn about your product's strength and competitors' weaknesses;",
-      "placeForDefining": "✅ define your best-performing marketing channels;"
+      "placeFor": "Здесь вы можете:",
+      "placeForMonitoring": "✅ отслеживать ваши упоминания о бренде и сравнивать их с конкурентами;",
+      "placeForChecking": "✅ сразу же проверять и реагировать на упоминания;",
+      "placeForLearning": "✅ узнать о сильных сторонах вашего товара и слабых сторонах конкурента;",
+      "placeForDefining": "✅ определить ваши лучшие маркетинговые каналы;"
     },
     "dashboardStep3": {
       "newProject": "Add a new project and monitor trending topics, brands, and products within it.",
       "monitor": "You can monitor your own or competitor's brand names or track keywords related to your product to see how you perform in the market.",
       "recommended": "👉 It is recommended to use 2-3-word phrases for keywords.",
       "upgradeMax": "You can upgrade your plan to track up to 60 keywords! To do so, click",
-      "barMenu": "on the bar menu",
+      "barMenu": "в панели меню",
       "free": {
         "1": "✅ On a free plan, you can add only 1 project and track 3 keywords. ",
         "2": "You can upgrade your plan to create up to 20 projects! To do so, click "
@@ -619,10 +619,10 @@
       "required": "%{field} required",
       "invalidEmail": "Invalid email address",
       "invalidEmailList": "Invalid email in the list",
-      "invalidPassword": "Password should contain at least 1 upper case letter, 1 number and be more than 8 characters long",
+      "invalidPassword": "Пароль должен содержать по крайней мере: 1 заглавную букву, 1 цифру и 8 символов",
       "temporaryEmail": "Temporary emails are disallowed",
-      "invalidPasswordLength": "Your password must be between 6-20 characters",
-      "confirmPassword": "Passwords must match",
+      "invalidPasswordLength": "Ваш пароль должен содержать от 6 до 20 символов",
+      "confirmPassword": "Пароли должны совпадать",
       "checkMaxKeywords": "Only 3 keywords can be set at a time",
       "checkMaxFilters": "Only 5 filters can be set at a time",
       "usedEmail": "This email is already in use. Please enter another or contact customer care",
@@ -636,11 +636,11 @@
       "maxActiveProj": "Only %{max} projects can be active at one time"
     },
     "server": {
-      "invalidLogin": "Invalid Email Address or Password",
+      "invalidLogin": "Неверный адрес электронной почты или пароль",
       "manyAttempts": "Too Many Attempts. You've been timed out for 1 minute",
       "unique": "%{field} should be unique",
       "required": "%{field} is required",
-      "requiredLog": "Email and password are required",
+      "requiredLog": "Требуется адрес электронной почты и пароль",
       "max": "Max %{field} length is %{length}",
       "min": "Min %{field} length is %{length}",
       "expired": "Your token has expired",
@@ -656,7 +656,7 @@
       "indisposable": "Disposable emails are disallowed",
       "numeric": "Value should be a number",
       "notInList": "Value doesn't exist in this list",
-      "bannedBlockedDeleted": "This account is banned. Please contact customer care for more information.",
+      "bannedBlockedDeleted": "Эта учетная запись заблокирована. Пожалуйста, свяжитесь со службой поддержки для дополнительной информации.",
       "notMatch": "Value doesn't match with a previous one",
       "incorrect": "%{field} is incorrect",
       "timeGap": "You can only toggle keywords every 5 minutes",
@@ -670,7 +670,7 @@
   },
   "pricing": {
     "package": {
-      "expired": "expired",
+      "expired": "просрочено",
       "expiredAt": "Package expires on ",
       "projects": "проекты для отслеживания",
       "mentions": "mentions per month",
@@ -684,25 +684,25 @@
       "expertDescription": "Suited for medium to large companies with developed social presence.",
       "enterprise": "Enterprise",
       "enterpriseDescription": "Best for enterprise companies and agencies.",
-      "purchase": "Purchase",
+      "purchase": "Покупка",
       "monitor": "Следить",
-      "projects": "projects",
+      "projects": "проекты",
       "track": "Track",
-      "keywords": "keywords",
+      "keywords": "ключевые слова",
       "uncover": "Uncover",
-      "mentions": "mentions",
+      "mentions": "упоминания",
       "monitorBrands": "Отслеживать бренды",
       "searchInfluencers": "Поиск инфлюенсеров",
       "trackPerformance": "Track project performance",
       "dataUpdated": "Data updated",
-      "customSetup": "Custom account setup",
-      "month": "mo",
-      "daily": "daily",
-      "timesDay": "times a day",
-      "current": "Current plan"
+      "customSetup": "Настройка учетной записи",
+      "month": "в месяц",
+      "daily": "ежедневный",
+      "timesDay": "раз в день",
+      "current": "Текущий тариф"
     },
-    "needHelp": "Need help",
+    "needHelp": "Нужна помощь",
     "talkToExpert": "Talk to an expert and find the best plan for you.",
-    "contactUs": "Contact us"
+    "contactUs": "Напишите нам"
   }
 }
