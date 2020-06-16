@@ -142,17 +142,17 @@
         "findContentCreators": {
           "tabs": {
             "influencers": "Project influencers",
-            "addBio": "Search additional BIO"
+            "addBio": "Поиск дополнительной биографии"
           },
           "filters": {
-            "exportToCSV": "Export Authors to CSV",
-            "downloadingCSV": "Downloading Authors CSV File...",
+            "exportToCSV": "Экспортировать авторов в CSV-файл",
+            "downloadingCSV": "Загрузка CSV-файла авторов...",
             "orderBy": "Order top authors by",
             "email": "Почта"
           }
         },
         "analytics": {
-          "title": "Project analytics",
+          "title": "Аналитика проекта",
           "subtitle": "Toggle projects on the right for more insights",
           "manage": {
             "projectsUse": "Toggle projects and see how they perform against each other",
