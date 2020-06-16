@@ -37,7 +37,7 @@
         "haveQuestions": "У вас есть еще вопросы?",
         "liveChat": "Свяжитесь с нами в онлайн-чате.",
         "resources": "ресурсы",
-        "features": "Функции",
+        "features": "Особенности",
         "pricing": "Цены",
         "blog": "Блог",
         "faq": "FAQ"
@@ -153,9 +153,9 @@
         },
         "analytics": {
           "title": "Аналитика проекта",
-          "subtitle": "Toggle projects on the right for more insights",
+          "subtitle": "Переключить проекты справа, чтоб получить больше информации",
           "manage": {
-            "projectsUse": "Toggle projects and see how they perform against each other",
+            "projectsUse": "Переключить проекты, чтобы увидеть как они работают вместе",
             "projects": "проекты",
             "socials": "соцсети"
           }
@@ -216,20 +216,20 @@
       "onBoarding": {
         "welcome": "Добро пожаловать в новую эпоху для вашего бренда. Успех ждет вас.",
         "subtitle": "Начнём!",
-        "brandMonitoring": "Отслеживать видимость бренда",
-        "brandMonitoringBody": "Research mentions by your brand's keywords. See who generates buzz about your brand online.",
-        "contentResearch": "Research content sources",
-        "contentResearchBody": "Analyze performance of content sources in your field to improve brand visibility and reputation.",
-        "competitorAnal": "Analyze competitors' strategy",
-        "competitorAnalBody": "See where your competitors get published. Polish your content strategy based on competitor research.",
-        "contentCreators": "Connect with brand fans",
-        "contentCreatorsBody": "Research brand supporters and content creators in your niche to collaborate easier and grow faster.",
+        "brandMonitoring": "Отслеживайте видимость бренда",
+        "brandMonitoringBody": "Находите упоминания о вашем бренде по ключевым словам. Посмотрите, кто проявляет интерес к вашему бренду онлайн.",
+        "contentResearch": "Изучите источники содержимого",
+        "contentResearchBody": "Проанализируйте эффективность источников содержания в вашей сфере. Так вы улучшите видимость и репутацию бренда.",
+        "competitorAnal": "Анализируйте стратигию конкурентов",
+        "competitorAnalBody": "Смотрите, где есть публикации ваших конкурентов. Отшлифуйте стратегию контента на основе исследований о конкурентах.",
+        "contentCreators": "Свяжитесь с поклонниками брендов",
+        "contentCreatorsBody": "Изучите сторонников бренда и создателей контента в вашей сфере. Сотрудничайте с ними, чтобы быстрее развиваться.",
         "findTopic": "Найти нфлюесеров по темам",
-        "findTopicBody": "Search for people who write a lot on the topic you need."
+        "findTopicBody": "Ищите людей, которые пишут на нужную вам тему."
       }
     },
     "landing": {
-      "thirdAuthError": "Authentication Error: This email is already registered on the platform"
+      "thirdAuthError": "Ошибка авторизации: Этот адрес уже зарегистрирован на платформе"
     },
     "user": {
       "updateUser": {
@@ -284,9 +284,9 @@
       "notifications": "Получать push-уведомления",
       "update": "Сохранить",
       "delete": "Удалить учетную запись",
-      "updatedInformation": "Your personal information has been updated!",
+      "updatedInformation": "Ваша личная информация обновлена!",
       "updatedPassword": "Ваш пароль обновлен!",
-      "updatedSocial": "Your social links have been updated!",
+      "updatedSocial": "Ваши ссылки обновлены!",
       "error": "Ошибка при обновлении данных."
     },
     "updatePassword": {
@@ -325,18 +325,18 @@
       "successText": "Проверьте свою электронную почту. Там будет ссылка на сброс пароля."
     },
     "resendEmail": {
-      "title": "Resend email confirmation letter",
-      "subtitle": "Enter your email address below to send a new email confirmation link",
-      "submit": "Resend confirmation link",
-      "success": "Confirmation link has been sent"
+      "title": "Отправить повторное письмо с подтверждением",
+      "subtitle": "Чтобы отправить новую ссылку для подтверждения, введите ваш адрес электронной почты ниже",
+      "submit": "Еще раз отправить ссылку для подтверждения",
+      "success": "Ссылка для подтверждения отправлена"
     },
     "emailActivation": {
       "successText": "Ваш email-адрес успешно подтвержден! Войдите в свою учетную запись.",
-      "errorText": "Sorry. We couldn't confirm your email address.",
+      "errorText": "Извините, мы не смогли подтвердить ваш адрес электронной почты.",
       "back": "Вернуться к регистрации"
     },
     "projectForm": {
-      "titleUser": "Enter the data of your",
+      "titleUser": "Введите ваши данные",
       "titleUserCompany": "компания",
       "titleUserOr": "или",
       "titleUserProduct": "товар",
@@ -349,35 +349,35 @@
       "projectNamePlaceholder": "Введите название проекта",
       "projectEx": "например, Fammio Project",
       "projectExCompetitor": "например, Competitor's Project",
-      "projectHelp": "Enter the name of your company or product",
-      "projectHelpCompetitor": "Enter the name of your competitor's company or product",
+      "projectHelp": "Введите название вашей компании или товара",
+      "projectHelpCompetitor": "Введите название компании или продукта конкурента",
       "brandCategory": "Категория бренда",
       "country": "Страна",
       "selectPlace": "Выберите %{selector} для поиска",
       "language": "Язык",
       "keywords": "Ключевые слова для отслеживания",
-      "keywordsPlaceholder": "Type keywords separated by commas or enter",
+      "keywordsPlaceholder": "Введите ключевые слова, разделенные запятыми или enter",
       "keywordsEx": "например, fammio, famm.io, famm (через запятую или enter)",
       "keywordsExCompetitor": "например, Keyword1, Keyword2, Keyword3 (через запятую или enter)",
       "keywordsHelp": "Введите ключевые слова для отслеживания упоминаний о проекте",
       "requiredKeywords": "Должно включать ключевые слова",
-      "excludedKeywords": "Excluded keywords"
+      "excludedKeywords": "Исключённые ключевые слова"
     },
     "socialData": {
-      "title": "Add social pages that you want to monitor",
+      "title": "Добавить страницы, которые вы хотите отслеживать",
       "insertLink": "Вставить ссылку здесь"
     },
     "emailShare": {
-      "success": "Shared to specified emails"
+      "success": "Отправлено на указанные адресы"
     }
   },
   "billingInfo": {
     "title": "Оплата",
     "subscription": "Подписка",
     "projects": "Проекты",
-    "promo": "Stay on top! Upgrade now and don't miss a single mention, be it yours or competitor's.",
-    "next": "Plan expires on",
-    "history": "Payment history",
+    "promo": "Оставайтесь на высоте! Обновите сейчас и не пропустите упоминаний о вас и конкурентах.",
+    "next": "Срок действия тарифа истекает",
+    "history": "История оплаты",
     "plan": "Тариф",
     "date": "Дата",
     "amount": "Сумма оплаты",
@@ -388,9 +388,9 @@
     "standard": "Pro",
     "upgrade": "Upgrade",
     "update": "Улучшить тариф",
-    "updatePro": "Get more mentions",
+    "updatePro": "Получить больше упоминаний",
     "wait": "Wait till the plan quota refreshes next billing month",
-    "continue": "Continue with the free plan",
+    "continue": "Продолжить с бесплатным тарифом",
     "continueResults": "Continue work with collected results (You will not receive fresh updates)",
     "continueResultsSingle": "Continue work with collected results",
     "continueResultsOptional": "(You will not receive fresh updates)",
@@ -400,10 +400,10 @@
     "reachedLimits": "You’ve reached the limit",
     "reachedText": "Wow, looks like you've got more mentions to track than your plan covers!",
     "reachedUpgrade": "Stay on top of all the social buzz around your brand. Upgrade now to get more mentions and unlock new sources for tracking.",
-    "freeExpired": "Go premium to unlock more!",
+    "freeExpired": "Перейти на премиум чтобы получить больше!",
     "freeExpiredTexts": {
       "brand": {
-        "title": "More keywords for monitoring",
+        "title": "Больше ключевых слов для отслеживания",
         "body": "Separate your or competitor's keywords in projects by topics, and compare how they perform against each other."
       },
       "sources": {
@@ -420,9 +420,9 @@
       }
     },
     "paidExpired": {
-      "title": "Your plan has expired",
-      "body": "It looks like your subscription has ended and wasn’t automatically renewed. Please, choose a plan to continue.",
-      "footer": "Encountered a problem? Contact our Customer Care team and we’ll help you with any issue. ",
+      "title": "Срок действия тарифа истек",
+      "body": "Похоже, ваша подписка закончилась и не автоматически не оновилась. Пожалуйста, выберите тариф для продолжения.",
+      "footer": "Возникли проблемы? Свяжитесь с нашей службой поддержки и мы поможем решить любые вопросы. ",
       "btnPlan": "Выбор тарифа"
     },
     "subLimits": {
@@ -494,7 +494,7 @@
         "summarise": "Don’t worry! It won’t have any impact on your search results."
       },
       "keywords": {
-        "title": "Keywords for tracking",
+        "title": "Ключевые слова для отслеживания",
         "hint": "In this field, you must enter keywords related to your industry topic.",
         "body": "Think of the keywords as phrases that people write in their posts. (E.g. email marketing, sales strategies, etc.). Write keywords related to one topic. "
       }
@@ -644,7 +644,7 @@
       "max": "Max %{field} length is %{length}",
       "min": "Min %{field} length is %{length}",
       "expired": "Your token has expired",
-      "forbidden": "%{field} is invalid",
+      "forbidden": "%{field} недействителеное",
       "notVerified": "Your email address isn't confirmed",
       "notUnique": "Value in %{field} should be unique",
       "notUniqueInEmail": "This email is already in use. Please enter another or contact customer care",
@@ -658,7 +658,7 @@
       "notInList": "Value doesn't exist in this list",
       "bannedBlockedDeleted": "Эта учетная запись заблокирована. Пожалуйста, свяжитесь со службой поддержки для дополнительной информации.",
       "notMatch": "Value doesn't match with a previous one",
-      "incorrect": "%{field} is incorrect",
+      "incorrect": "%{field} неверно",
       "timeGap": "You can only toggle keywords every 5 minutes",
       "unableToDeactivate": "You can't deactivate the last keyword in your project",
       "invalidFormat": "Data was provided to the field in an invalid format ",
@@ -671,10 +671,10 @@
   "pricing": {
     "package": {
       "expired": "просрочено",
-      "expiredAt": "Package expires on ",
+      "expiredAt": "Срок действия тарифа истекает ",
       "projects": "проекты для отслеживания",
-      "mentions": "mentions per month",
-      "keywords": "keyword for tracking"
+      "mentions": "упоминаний за месяц",
+      "keywords": "ключевое слово для отслеживания"
     },
     "plans": {
       "free": "Freemium",
@@ -683,18 +683,18 @@
       "expert": "Expert",
       "expertDescription": "Suited for medium to large companies with developed social presence.",
       "enterprise": "Enterprise",
-      "enterpriseDescription": "Best for enterprise companies and agencies.",
+      "enterpriseDescription": "Подходит для предприятий и агентств.",
       "purchase": "Покупка",
       "monitor": "Следить",
       "projects": "проекты",
-      "track": "Track",
+      "track": "Отслеживать",
       "keywords": "ключевые слова",
-      "uncover": "Uncover",
+      "uncover": "Развернуть",
       "mentions": "упоминания",
       "monitorBrands": "Отслеживать бренды",
       "searchInfluencers": "Поиск инфлюенсеров",
       "trackPerformance": "Track project performance",
-      "dataUpdated": "Data updated",
+      "dataUpdated": "Данные обновлены",
       "customSetup": "Настройка учетной записи",
       "month": "в месяц",
       "daily": "ежедневный",
