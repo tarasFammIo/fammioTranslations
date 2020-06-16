@@ -1,16 +1,16 @@
 {
   "default": {
-    "yes": "Yes",
-    "no": "No",
-    "filter": "Filter",
-    "logout": "Log out",
-    "start": "Start",
-    "submit": "Submit",
-    "searching": "Searching...",
+    "yes": "Да",
+    "no": "Нет",
+    "filter": "Фильтр",
+    "logout": "Выйти",
+    "start": "Начать",
+    "submit": "Отправить",
+    "searching": "Идёт поиск...",
     "hints": {
-      "toRead": "Move selected to \"Read\"",
-      "toMarked": "Move selected to \"Marked\"",
-      "toFavourite": "Move selected to \"Favourite\"",
+      "toRead": "Переместить выделенное в \"Читать\"",
+      "toMarked": "Переместить выбранное в «Отмечено»",
+      "toFavourite": "Переместить выбранное в Избранное",
       "toSpam": "Move selected to \"Spam\"",
       "toTrash": "Move selected to \"Trash\""
     }
