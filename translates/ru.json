@@ -389,34 +389,34 @@
     "upgrade": "Upgrade",
     "update": "Улучшить тариф",
     "updatePro": "Получить больше упоминаний",
-    "wait": "Wait till the plan quota refreshes next billing month",
+    "wait": "Дождитесь обновления тарифной оплаты для следующего месяца",
     "continue": "Продолжить с бесплатным тарифом",
-    "continueResults": "Continue work with collected results (You will not receive fresh updates)",
-    "continueResultsSingle": "Continue work with collected results",
-    "continueResultsOptional": "(You will not receive fresh updates)",
-    "noUp": "Search is disabled, but mentions can be filtered by this source if there are any results"
+    "continueResults": "Продолжить работу с получеными результатами (Вы не будете получать новые обновления)",
+    "continueResultsSingle": "Продолжить работу с получеными результатами",
+    "continueResultsOptional": "(Вы не будете получать новые обновления)",
+    "noUp": "Поиск отключен, но вы можете фильтровать результаты"
   },
   "paymentModals": {
-    "reachedLimits": "You’ve reached the limit",
-    "reachedText": "Wow, looks like you've got more mentions to track than your plan covers!",
-    "reachedUpgrade": "Stay on top of all the social buzz around your brand. Upgrade now to get more mentions and unlock new sources for tracking.",
+    "reachedLimits": "Вы достигли лимита",
+    "reachedText": "Ого, кажется, у вас есть больше упоминаний для отслеживания чем планировалось!",
+    "reachedUpgrade": "Оставайтесь на вершине всех обсуждений вокруг вашего бренда. Обновите сейчас, чтобы получить больше упоминаний и разблокировать новые источники для отслеживания.",
     "freeExpired": "Перейти на премиум чтобы получить больше!",
     "freeExpiredTexts": {
       "brand": {
         "title": "Больше ключевых слов для отслеживания",
-        "body": "Separate your or competitor's keywords in projects by topics, and compare how they perform against each other."
+        "body": "Разделите ваши ключевые слова или ключевые слова конкурента в проектах по темам. Сравните их."
       },
       "sources": {
-        "title": "New sources to cover more mentions",
-        "body": "Manage your online reputation on the most popular platforms: Facebook, Instagram, and Telegram."
+        "title": "Новые источники, чтобы получть больше упоминаний",
+        "body": "Управляйте своей репутацией в сети на популярных платформах: Facebook, Instagram и Telegram."
       },
       "updated": {
-        "title": "Get timely updates",
-        "body": "Always be aware of fresh news and mentions and receive more frequent updates."
+        "title": "Получать актуальные обновления",
+        "body": "Всегда будьте в курсе новостей и упоминаний о бренде. Чаще получайте информацию."
       },
       "personal": {
         "title": "Настройка учетной записи",
-        "body": "We will personally assist you in launching your project and setting up keywords for monitoring."
+        "body": "Мы поможем запустить ваш проект и настроить ключевые слова для мониторинга."
       }
     },
     "paidExpired": {
@@ -426,14 +426,14 @@
       "btnPlan": "Выбор тарифа"
     },
     "subLimits": {
-      "title": "Now that’s what we call productivity",
-      "bodyLooksLike": "It looks like you’ve just run out of mentions on your plan!",
-      "bodyContactTeam": "Please contact our Customer Care team if you’d like to upgrade your monthly mentions quota or wait for it to renew next month."
+      "title": "Вот что такое продуктивность",
+      "bodyLooksLike": "Похоже, вы выплонили план по упоминаниям!",
+      "bodyContactTeam": "Если вы хотите обновить квоту на месяц свяжитесь с нашей службой поддержки, или дождитесь ее обновления в следующем месяце."
     },
     "downgrade": {
-      "title": "You are now using a free plan",
-      "processing": "Something went wrong when processing your payment. You have been automatically switched to a free plan. Please contact our Customer Care for more details.",
-      "choose": "Please choose a payment method to return to your premium subscription or continue with the free plan."
+      "title": "Теперь вы используете бесплатный тариф",
+      "processing": "Что-то пошло не так при обработке платежа. Вы автоматически перешли на бесплатный тариф. Пожалуйста, свяжитесь с нашей службой поддержки, чтобы получить больше информации.",
+      "choose": "Пожалуйста, выберите способ оплаты, чтобы вернуться к подписке Premium или перейдите к бесплатному тарифу."
     }
   },
   "tour": {
@@ -443,19 +443,19 @@
     "upgrade": "Улучшить",
     "firstBoarding": {
       "step1": {
-        "author": "My name is Vova, a Marketing Specialist at Fammio. I’m very excited you joined us. ",
-        "text1": "In the next 14 days of your trial period, I’ll try to help you explore all core platform features. ",
-        "text2": "I’m always here to help if you have any questions. You can always reach me via a chat window or by email ",
+        "author": "Меня зовут Владимир, я специалист по маркетингу в Fammio. Очень рад, что вы присоиденилиськ нам. ",
+        "text1": "Следующие 14 дней пробного периода я постараюсь помочь вам изучить все основные функции платформы. ",
+        "text2": "Если у вас есть какие-либо вопросы, я всегда рад помочь вам. Вы всегда можете связаться со мной с помощью окна чата или по электронной почте ",
         "email": "volodymyr@famm.io",
-        "text3": "There is one simple thing - we can grow only together with you.",
-        "text4": "Share your feedback in widget chat if you have any suggestions or found some issues. It will help us to become better for sure."
+        "text3": "Существует одна простая вещь - мы можем розвиваться только вместе.",
+        "text4": "Если у вас есть предложения или вы нашли какие-то проблемы, напишите ваш отзыв в чате виджета. Это поможет нам стать лучше."
       }
     },
     "firstBoardingMonitorBrands": {
       "step2": {
-        "text1": "Let me ask you one more question before you start monitoring your brand and spying on competitors.",
-        "text2": "Are you sure you created your project correctly?",
-        "text3": "I promise that this 2:55 min video will help you get the most out of Fammio.",
+        "text1": "Прежде чем вы начнете отслеживать ваш бренд и следить за конкурентами, позвольте задать еще один вопрос.",
+        "text2": "Вы уверены, что создали проект правильно?",
+        "text3": "Это 3-минутное видео поможет вам узнать о Fammio все, что вам нужно.",
         "videoSrc": "https://www.youtube.com/embed/gJjUNnXb4oI"
       }
     },
@@ -477,21 +477,21 @@
     },
     "monitorBrands": {
       "name": {
-        "enterFollowing": "Let’s start with creating your first project!",
-        "hint": "Set a project name (e.g. Your brand name). ",
-        "summarise": "Don’t worry! It won’t have any impact on your search results"
+        "enterFollowing": "Создайте ваш первый проект. Давайте начнем!",
+        "hint": "Введине название проекта (например, Связаться с аудиторией). ",
+        "summarise": "Не волнуйтесь! Это никак не повлияет на результаты поиска"
       },
       "keywords": {
-        "title": "Keywords for tracking",
-        "hint": "In this field, you must enter keywords related to your company/product name.",
+        "title": "Ключевые слова для отслеживания",
+        "hint": "Введите ключевые слова, относящиеся к названию вашей компании или товара здесь.",
         "body": "Ключевые слова для Fammio: famm.io(веб-сайт компании), fammio(общее название компании), fammioapp(имя twitter аккаунта) и так далее."
       }
     },
     "reachWider": {
       "name": {
-        "enterFollowing": "Let’s start with creating your first project!",
-        "hint": "Set a project name (e.g. Reach audience). ",
-        "summarise": "Don’t worry! It won’t have any impact on your search results."
+        "enterFollowing": "Создайте ваш первый проект. Давайте начнем!",
+        "hint": "Введине название проекта (например, Связаться с аудиторией). ",
+        "summarise": "Не волнуйтесь! Это никак не повлияет на результаты поиска."
       },
       "keywords": {
         "title": "Ключевые слова для отслеживания",
