@@ -105,7 +105,7 @@
           },
           "posts": {
             "post": {
-              "infl": "Оценка влияния",
+              "infl": "Показатель влияния",
               "share": "Поделиться результатом",
               "reach": "Количество Охвата",
               "likes": "Количество Лайков",
@@ -157,22 +157,22 @@
           "manage": {
             "projectsUse": "Toggle projects and see how they perform against each other",
             "projects": "проекты",
-            "socials": "social networks"
+            "socials": "соцсети"
           }
         },
         "topicInfluencers": {
           "createTopic": {
-            "title": "It’s time to find the biggest influencers in your niche!",
-            "titleAdd": "Enter a new topic to search for more influencers",
-            "subtitle": "Type in a keyword to start.",
-            "placeholder": "Email marketing, sales, games"
+            "title": "Самое время найти самых влиятельных людей в вашей сфере!",
+            "titleAdd": "Введите новую тему для поиска большего количества лидеров мнений",
+            "subtitle": "Введите ключевое слово, чтобы начать.",
+            "placeholder": "Email-маркетинг, продажи, игры"
           },
           "mainPage": {
             "search": "Поиск по имени"
           },
           "filters": {
             "topic": "Название темы",
-            "social": "Social platform",
+            "social": "Соцсеть",
             "sort": "Сортировать по дате",
             "new": "Сначала новые",
             "old": "Сначала старые"
@@ -180,7 +180,7 @@
           "newRes": "Свежие результаты"
         },
         "projectSelection": {
-          "projectName": "Choose a project to analyze"
+          "projectName": "Выберите проект для анализа"
         },
         "settings": {
           "settings": "Настройки",
@@ -193,7 +193,7 @@
           "project": {
             "updated": "Обновленный проект:",
             "delete": "Удалить проект",
-            "confirmDelete": "Are you sure you want to delete this project?",
+            "confirmDelete": "Вы уверены, что хотите удалить этот проект?",
             "noProjects": "Нет активных проектов"
           }
         }
@@ -201,14 +201,14 @@
     },
     "navigation": {
       "brandMonitoring": "Отслеживание бренда",
-      "topicInfluencers": "Topic influencers",
-      "findCreators": "Brand discussers",
+      "topicInfluencers": "Инфлюесеры по темам",
+      "findCreators": "Обсуждение бренда",
       "projectAnalytics": "Аналитика"
     },
     "sidebar": {
       "title": "Проекты",
       "add": "Добавить проект",
-      "usedLimits": "Mentions found",
+      "usedLimits": "Найдено упоминаний",
       "maxLimits": "Предел текущего плана",
       "unlim": "НЕОГРАНИЧЕНО"
     },
@@ -224,7 +224,7 @@
         "competitorAnalBody": "See where your competitors get published. Polish your content strategy based on competitor research.",
         "contentCreators": "Connect with brand fans",
         "contentCreatorsBody": "Research brand supporters and content creators in your niche to collaborate easier and grow faster.",
-        "findTopic": "Find topic influencers",
+        "findTopic": "Найти нфлюесеров по темам",
         "findTopicBody": "Search for people who write a lot on the topic you need."
       }
     },
@@ -245,15 +245,15 @@
     "favourites": "Show favorites only"
   },
   "forms": {
-    "log": "Log into your account",
-    "next": "Next",
+    "log": "Войдите в свою учетную запись",
+    "next": "Далее",
     "finish": "Конец",
     "back": "Назад",
-    "skip": "Skip and fill in later",
+    "skip": "Пропустить и заполнить позже",
     "create": "Создать",
     "signIn": {
       "title": "Войти в Fammio",
-      "subtitle": "Don't have an account?",
+      "subtitle": "У вас нет учетной записи?",
       "unath": "Unauthenticated",
       "email": "Email address",
       "password": "Password",
@@ -265,25 +265,25 @@
     },
     "signUp": {
       "title": "Sign Up",
-      "subtitle": "Already have an account?",
+      "subtitle": "У вас уже есть учетная запись?",
       "name": "Имя пользователя",
       "firstName": "Имя",
       "lastName": "Фамилия",
       "email": "example@gmail.com",
       "password": "Password",
       "submit": "Sign Up",
-      "success": "Account created. Confirmation email has been sent."
+      "success": "Учетная запись создана. На вашу почту прийдет письмо с подтверждением."
     },
     "updatePersonalData": {
       "title": "User information",
       "company": "Company",
-      "email": "Email",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "job": "Job Title",
-      "notifications": "Get web push notifications",
+      "email": "Почта",
+      "firstName": "Имя",
+      "lastName": "Фамилия",
+      "job": "Должность",
+      "notifications": "Получать push-уведомления",
       "update": "Save",
-      "delete": "Delete account",
+      "delete": "Удалить учетную запись",
       "updatedInformation": "Your personal information has been updated!",
       "updatedPassword": "Your password has been updated!",
       "updatedSocial": "Your social links have been updated!",
@@ -469,9 +469,9 @@
     },
     "firstBoardingFindInfluencers": {
       "step2": {
-        "text1": "Let me ask you one more question before you start searching for topic influencers.",
-        "text2": "Are you sure you created your project correctly?",
-        "text3": "I promise that this 3 min video will help you get the most out of Fammio.",
+        "text1": "Прежде чем вы начнете искать инфлюесеров по темам, позвольте задать вам один вопрос.",
+        "text2": "Вы уверены, что создали проект правильно?",
+        "text3": "Это 3-минутное видео поможет вам узнать о Fammio все, что вам нужно.",
         "videoSrc": "https://www.youtube.com/embed/Z5EFtsnD2Vw"
       }
     },
@@ -501,12 +501,12 @@
     },
     "findInfluencers": {
       "name": {
-        "enterFollowing": "Let’s start with creating your first project!",
-        "hint": "Set a project name (e.g. Marketing Topic Influencers). ",
-        "summarise": "Don’t worry! It won’t have any impact on your search results."
+        "enterFollowing": "Создайте ваш первый проект. Давайте начнем!",
+        "hint": "Введите название проекта (например, маркетинговая тема влияния). ",
+        "summarise": "Не волнуйтесь! Это никак не повлияет на результаты поиска."
       },
       "keywords": {
-        "title": "Keywords for tracking",
+        "title": "Ключевые слова для отслеживания",
         "hint": "In this field, you must enter keywords related to topic influencers’ niche.",
         "body": "Think of the keywords as phrases that influencers write in their posts. For example, enter email marketing, email marketing strategies, email techniques, if you are interested to find email marketing topic influencers."
       }
@@ -520,7 +520,7 @@
       "hintEnter": "If you're entering several keywords, press Enter after each one.",
       "addKeywords": "You can add N keywords to each project. It depends on your package plan.",
       "specifyEach": "Specify each competitor to find related content, references, and mentions.",
-      "separateMention": "Fammio will create a separate mention monitoring and influencer search dashboard."
+      "separateMention": "Fammio создаст отдельно два блока: упоминание отслеживания и панель поиска."
     },
     "step2": {
       "specifyCompetitor": "You can learn and use your competitors' strong and week points by listening to what their clients say on social media. ",
@@ -692,7 +692,7 @@
       "uncover": "Uncover",
       "mentions": "mentions",
       "monitorBrands": "Отслеживать бренды",
-      "searchInfluencers": "Search influencers",
+      "searchInfluencers": "Поиск инфлюенсеров",
       "trackPerformance": "Track project performance",
       "dataUpdated": "Data updated",
       "customSetup": "Custom account setup",
