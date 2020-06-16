@@ -19,7 +19,7 @@
     "layout": {
       "newData": "Новые сообщения",
       "totalData": "Все результаты",
-      "logoSignIn": "Famm.io - анализируйте влияние вашего бренда и узнайте, где вы теряете прибыль.",
+      "logoSignIn": "Aнализируйте влияние вашего бренда c Famm.io и узнайте, где вы теряете прибыль.",
       "logoSignUp": "Сосредоточьтесь на актуальной информации от аудитории вашего бренда.",
       "logoForgot": "Famm.io – это способ определить нужный контент в Вашей сфере.",
       "logoCreate": "Создайте проект для анализа социального присутствия вашего бренда. Поиск упоминаний начнется сразу после настройки ключевого слова.",
@@ -119,8 +119,8 @@
               "favourites": "Количество Избранных",
               "bookmark": "Добавить в закладки ваш любимый результат",
               "open": "Open result's source in a new window",
-              "remove": "Remove this result",
-              "shareOn": "Share on social media",
+              "remove": "Убрать результат",
+              "shareOn": "Поделиться в соцсетях",
               "emails": "Share this result by email",
               "emailsList": "Enter emails separated by comma",
               "language": "Язык"
@@ -136,8 +136,8 @@
           },
           "getNew": "Click on New Posts to get fresh results",
           "noData": "Нет данных",
-          "totalFor": "Total results for",
-          "loading": "Loading..."
+          "totalFor": "Все результаты для",
+          "loading": "Загрузка..."
         },
         "findContentCreators": {
           "tabs": {
@@ -148,7 +148,7 @@
             "exportToCSV": "Export Authors to CSV",
             "downloadingCSV": "Downloading Authors CSV File...",
             "orderBy": "Order top authors by",
-            "email": "Email"
+            "email": "Почта"
           }
         },
         "analytics": {
@@ -156,7 +156,7 @@
           "subtitle": "Toggle projects on the right for more insights",
           "manage": {
             "projectsUse": "Toggle projects and see how they perform against each other",
-            "projects": "projects",
+            "projects": "проекты",
             "socials": "social networks"
           }
         },
@@ -168,55 +168,55 @@
             "placeholder": "Email marketing, sales, games"
           },
           "mainPage": {
-            "search": "Search by name"
+            "search": "Поиск по имени"
           },
           "filters": {
-            "topic": "Topic name",
+            "topic": "Название темы",
             "social": "Social platform",
-            "sort": "Sort by date",
-            "new": "Newest first",
-            "old": "Oldest first"
+            "sort": "Сортировать по дате",
+            "new": "Сначала новые",
+            "old": "Сначала старые"
           },
-          "newRes": "Fresh results"
+          "newRes": "Свежие результаты"
         },
         "projectSelection": {
           "projectName": "Choose a project to analyze"
         },
         "settings": {
-          "settings": "Settings",
-          "account": "Account Settings",
-          "projects": "Project Settings",
-          "integrations": "Integrations",
-          "logout": "Log Out",
-          "logoutConfirm": "Are you sure you want to log out?",
-          "editProject": "Edit project",
+          "settings": "Настройки",
+          "account": "Настройки учётной записи",
+          "projects": "Настройки проекта",
+          "integrations": "Интеграции",
+          "logout": "Выйти",
+          "logoutConfirm": "Вы уверены, что хотите выйти?",
+          "editProject": "Редактировать проект",
           "project": {
-            "updated": "Updated project:",
-            "delete": "Delete project",
+            "updated": "Обновленный проект:",
+            "delete": "Удалить проект",
             "confirmDelete": "Are you sure you want to delete this project?",
-            "noProjects": "No active projects"
+            "noProjects": "Нет активных проектов"
           }
         }
       }
     },
     "navigation": {
-      "brandMonitoring": "Brand monitoring",
+      "brandMonitoring": "Отслеживание бренда",
       "topicInfluencers": "Topic influencers",
       "findCreators": "Brand discussers",
-      "projectAnalytics": "Analytics"
+      "projectAnalytics": "Аналитика"
     },
     "sidebar": {
-      "title": "Projects",
-      "add": "Add project",
+      "title": "Проекты",
+      "add": "Добавить проект",
       "usedLimits": "Mentions found",
-      "maxLimits": "Current plan limit",
-      "unlim": "UNLIMITED"
+      "maxLimits": "Предел текущего плана",
+      "unlim": "НЕОГРАНИЧЕНО"
     },
     "projectCreation": {
       "onBoarding": {
-        "welcome": "Welcome to a new era for your brand. Fame is right around the corner.",
-        "subtitle": "Let's get started!",
-        "brandMonitoring": "Monitor brand's visibility",
+        "welcome": "Добро пожаловать в новую эпоху для вашего бренда. Успех ждет вас.",
+        "subtitle": "Начнём!",
+        "brandMonitoring": "Отслеживать видимость бренда",
         "brandMonitoringBody": "Research mentions by your brand's keywords. See who generates buzz about your brand online.",
         "contentResearch": "Research content sources",
         "contentResearchBody": "Analyze performance of content sources in your field to improve brand visibility and reputation.",
@@ -234,7 +234,7 @@
     "user": {
       "updateUser": {
         "title": "Update Your Account Data",
-        "linkBack": "Go Back"
+        "linkBack": "Вернуться"
       },
       "payment": {
         "getPackage": "Log in to get your package"
@@ -247,18 +247,18 @@
   "forms": {
     "log": "Log into your account",
     "next": "Next",
-    "finish": "Finish",
-    "back": "Back",
+    "finish": "Конец",
+    "back": "Назад",
     "skip": "Skip and fill in later",
-    "create": "Create",
+    "create": "Создать",
     "signIn": {
-      "title": "Log into Fammio",
+      "title": "Войти в Fammio",
       "subtitle": "Don't have an account?",
       "unath": "Unauthenticated",
       "email": "Email address",
       "password": "Password",
       "submit": "Sign in",
-      "newAcc": "Get started",
+      "newAcc": "Начать",
       "resetPass": "Forgot your password?",
       "subtitleVerify": "Haven't confirmed your email yet?",
       "verifyOpen": "Confirm now"
@@ -266,9 +266,9 @@
     "signUp": {
       "title": "Sign Up",
       "subtitle": "Already have an account?",
-      "name": "Name",
-      "firstName": "First Name",
-      "lastName": "Last Name",
+      "name": "Имя пользователя",
+      "firstName": "Имя",
+      "lastName": "Фамилия",
       "email": "example@gmail.com",
       "password": "Password",
       "submit": "Sign Up",
@@ -340,7 +340,7 @@
       "titleUserCompany": "company",
       "titleUserOr": "or",
       "titleUserProduct": "product",
-      "titleUserMonitor": "to monitor",
+      "titleUserMonitor": "отслеживать",
       "titleCompetitor": "Competitors",
       "titleCompetitorBold": "Your competitor",
       "titleUserModal": "Create project",
@@ -672,7 +672,7 @@
     "package": {
       "expired": "expired",
       "expiredAt": "Package expires on ",
-      "projects": "projects to monitor",
+      "projects": "проекты для отслеживания",
       "mentions": "mentions per month",
       "keywords": "keyword for tracking"
     },
@@ -685,13 +685,13 @@
       "enterprise": "Enterprise",
       "enterpriseDescription": "Best for enterprise companies and agencies.",
       "purchase": "Purchase",
-      "monitor": "Monitor",
+      "monitor": "Следить",
       "projects": "projects",
       "track": "Track",
       "keywords": "keywords",
       "uncover": "Uncover",
       "mentions": "mentions",
-      "monitorBrands": "Monitor brands",
+      "monitorBrands": "Отслеживать бренды",
       "searchInfluencers": "Search influencers",
       "trackPerformance": "Track project performance",
       "dataUpdated": "Data updated",
