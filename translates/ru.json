@@ -623,23 +623,23 @@
       "temporaryEmail": "Временные адреса электронной почты запрещены",
       "invalidPasswordLength": "Ваш пароль должен содержать от 6 до 20 символов",
       "confirmPassword": "Пароли должны совпадать",
-      "checkMaxKeywords": "Only 3 keywords can be set at a time",
-      "checkMaxFilters": "Only 5 filters can be set at a time",
-      "usedEmail": "This email is already in use. Please enter another or contact customer care",
-      "activeProject": "At least one project should be active",
-      "limitProjects": "Only %{max} active projects are allowed",
-      "limitKeywords": "Only %{max} active keywords are allowed",
-      "noDuplicates": "Duplicates are disallowed",
-      "noDuplicateTags": "Duplicate keywords are disallowed",
-      "needTopic": "Enter a topic keyword to start searching",
-      "maxList": "Only 3 keywords can be added",
-      "maxActiveProj": "Only %{max} projects can be active at one time"
+      "checkMaxKeywords": "Одновременно можно применить только 3 ключевых слова",
+      "checkMaxFilters": "Одновременно можно применить только 5 фильтров",
+      "usedEmail": "Этот адрес электронной почты уже существует. Пожалуйста, введите другой или свяжитесь со службой поддержки",
+      "activeProject": "Минимум 1 проект должен быть активным",
+      "limitProjects": "Разрешено только %{max} активных проектов",
+      "limitKeywords": "Разрешено только %{max} ключевых слов",
+      "noDuplicates": "Повторяющиеся результаты запрещены",
+      "noDuplicateTags": "Повторяющиеся ключевые слова запрещены",
+      "needTopic": "Для начала поиска введите ключевое слово по теме",
+      "maxList": "Можно добавить только 3 ключевых слова",
+      "maxActiveProj": "Одновременно могут быть активными только %{max} проектов"
     },
     "server": {
       "invalidLogin": "Неверный адрес электронной почты или пароль",
-      "manyAttempts": "Too Many Attempts. You've been timed out for 1 minute",
-      "unique": "%{field} should be unique",
-      "required": "%{field} is required",
+      "manyAttempts": "Слишком много попыток. Повторите снова через 1 минуту",
+      "unique": "%{field} должно быть уникальным",
+      "required": "%{field} обязательно",
       "requiredLog": "Требуется адрес электронной почты и пароль",
       "max": "Максимальная %{field} длина %{length}",
       "min": "Минимальная %{field} длина %{length}",
@@ -659,13 +659,13 @@
       "bannedBlockedDeleted": "Эта учетная запись заблокирована. Пожалуйста, свяжитесь со службой поддержки для дополнительной информации.",
       "notMatch": "Это значение не совпадает с предыдущим",
       "incorrect": "%{field} неверно",
-      "timeGap": "You can only toggle keywords every 5 minutes",
-      "unableToDeactivate": "You can't deactivate the last keyword in your project",
-      "invalidFormat": "Data was provided to the field in an invalid format ",
+      "timeGap": "Вы можете переключать ключевые слова каждые 5 минут",
+      "unableToDeactivate": "Нельзя отключить последнее ключевое слово в проекте",
+      "invalidFormat": "Вы ввели неверный формат данных ",
       "user": {
-        "maxLimits": "You've reached your max mentions count of %{value}"
+        "maxLimits": "Вы достигли максимального количества упоминаний %{value}"
       },
-      "emailExists": "This email is already in use"
+      "emailExists": "Этот адрес электронной почты уже используется"
     }
   },
   "pricing": {
@@ -679,9 +679,9 @@
     "plans": {
       "free": "Freemium",
       "essential": "Essential",
-      "essentialDescription": "Crafted for solopreneurs and small businesses.",
+      "essentialDescription": "Создано для предпринимателей и малого бизнеса.",
       "expert": "Expert",
-      "expertDescription": "Suited for medium to large companies with developed social presence.",
+      "expertDescription": "Подходит для средних и крупных компаний с активной присотносью в сети.",
       "enterprise": "Enterprise",
       "enterpriseDescription": "Подходит для предприятий и агентств.",
       "purchase": "Покупка",
@@ -693,7 +693,7 @@
       "mentions": "упоминания",
       "monitorBrands": "Отслеживать бренды",
       "searchInfluencers": "Поиск инфлюенсеров",
-      "trackPerformance": "Track project performance",
+      "trackPerformance": "Отслеживать эффективность проекта",
       "dataUpdated": "Данные обновлены",
       "customSetup": "Настройка учетной записи",
       "month": "в месяц",
