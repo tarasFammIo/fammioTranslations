@@ -1,23 +1,23 @@
 {
   "components": {
     "navigation": {
-      "features": "Features",
-      "pricing": "Pricing",
-      "blog": "Blog",
+      "features": "Возможности",
+      "pricing": "Цены",
+      "blog": "Блог",
       "faq": "FAQ"
     },
     "buttons": {
-      "logIn": "LOG IN",
-      "signUp": "SIGN UP",
-      "signIn": "SIGN IN"
+      "logIn": "ВХОД В СИСТЕМУ",
+      "signUp": "ЗАРЕГИСТРИРОВАТЬСЯ",
+      "signIn": "ВОЙТИ"
     }
   },
   "layouts": {
     "faq": {
-      "title": "Hello, how can we help?",
+      "title": "Привет, чем мы можем вам помочь?",
       "subtitle": "Browse through the most frequently asked questions.",
-      "noData": "Sorry, nothing was found. Try to search again.",
-      "questions": "General questions",
+      "noData": "К сожалению, ничего не найдено. Попробуйте снова.",
+      "questions": "Общие вопросы",
       "how": "How to"
     },
     "pricing": {
