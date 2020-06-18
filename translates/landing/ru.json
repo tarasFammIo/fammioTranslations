@@ -18,26 +18,26 @@
       "subtitle": "Browse through the most frequently asked questions.",
       "noData": "К сожалению, ничего не найдено. Попробуйте снова.",
       "questions": "Общие вопросы",
-      "how": "How to"
+      "how": "Как"
     },
     "pricing": {
       "faq": {
         "title": "FAQ",
-        "text1": "Frequently Asked Questions.",
-        "text2": "Here are some common questions about Famm.io",
-        "text3": "Start monitor your brand with Fammio today!",
-        "text4": "Create your first project in 2 minutes. Free trial. No credit card required."
+        "text1": "Часто задаваемые вопросы.",
+        "text2": "Вот несколько типичных вопросов о Famm.io",
+        "text3": "Начните отслеживать свой бренд с Fammio уже сегодня!",
+        "text4": "Создайте свой первый проект за 2 минуты. Пробная версия бесплатно. Кредитной карты не нужно."
       },
       "package": {
-        "mont": "/mo"
+        "mont": "/мес"
       },
       "pricing": {
         "title": "Catch up with the latest mentions!",
-        "info": " 2 minute set up | 14 days money-back guarantee"
+        "info": " Настройка за 2 минуты | Гарантия возврата средств 14 дней"
       },
       "promo": {
-        "title1": "Why our",
-        "title2": "customers choose",
+        "title1": "Почему мы",
+        "title2": "выбор клиентов",
         "track": "To track your brand's performance"
       }
     },
@@ -53,7 +53,7 @@
       },
       "secondPart": {
         "text1": "Find out what the buzz around ",
-        "text2": "your brand",
+        "text2": "ваш бренд",
         "text3": " is all about",
         "text4": "It’s hard to keep track of every mention out there, when there is so much information noise and distractions.",
         "text5": "We monitor millions of web pages - social media, news blogs and forums - for you to get the freshest mentions of your or your competitor’s brand every day.",
@@ -64,15 +64,15 @@
         "text10": "Respond to positive comments to gain brand fans and react to negative feedback for swift damage control.",
         "text11": "Define web and social media channels where your brand is mentioned most frequently.",
         "text12": "Research ",
-        "text13": "influencer",
+        "text13": "инфлюерсер",
         "text14": " marketing possibilities to strengthen your brand",
         "text15": "Identify influencers in your niche to reach your target audience easier. Market to your ideal customers through a powerful social presence. Discover which influencers work with your competitors.",
         "text16": "Measure your performance against your ",
-        "text17": "competitors",
+        "text17": "конкуренты",
         "text18": "Use Fammio’s clean and transparent analytics dashboard to track your performance by platform and observe the trends in your brand’s development over time."
       },
       "homeTestimonials": {
-        "question": "Why our customers choose ",
+        "question": "Почему выбирают наши клиенты ",
         "customer1": "On @SlushHQ, I found out about @fammioapp. I use it both for retrospective brand mentions, and for influencers for future PR. They develop new features every week and open to new ideas.",
         "customer2": "Fammio helped me to cut down the time on my search for right places across the Web with my potential leads. I wish I had this tool 3 years ago. 😈",
         "customer3": "We started using Fammio to find bloggers writing the content about Internet Marketing, and I have to say it works really well. We gained SEO rankings increase after making quality publications in the local media and got better sales afterwards.",
@@ -113,16 +113,16 @@
           "mention": "Fammio vs. Mention",
           "google": "Fammio vs. Google Alerts"
         },
-        "text3": "Have any other questions? ",
-        "text4": "Don't hesitate to reach us on live chat or on."
+        "text3": "У вас есть еще вопросы? ",
+        "text4": "Свяжитесь с нами в онлайн-чате."
       }
     },
     "main": {
       "buttons": {
-        "signUp": "SIGN UP FREE",
-        "tracking": "Start tracking mentions",
-        "logIn": "Log in",
-        "signUp2": "Sign up"
+        "signUp": "БЕСПЛАТНАЯ РЕГИСТРЦИЯ",
+        "tracking": "Начать отслеживанть упоминания",
+        "logIn": "Вход в систему",
+        "signUp2": "Зарегистрироваться"
       }
     }
   },
@@ -130,20 +130,20 @@
     "packages": {
       "Essential": {
         "title": "Essential",
-        "descr": "Crafted for solopreneurs and small businesses.",
+        "descr": "Создано для предпринимателей и малого бизнеса.",
         "limits": {
-          "title1": "Monitor 5 projects",
-          "title2": "Track 15 keywords",
-          "title3": "Uncover 15,000 mentions"
+          "title1": "Отслеживать 5 проектов",
+          "title2": "Отслеживать 15 ключевых слов",
+          "title3": "Откройте для себя 15,000 упоминаний"
         },
         "features": {
-          "text1": "Monitor brands",
-          "text2": "Search influencers",
-          "text3": "Analytics",
-          "text4": "Data updated daily",
-          "text5": "Slack integration",
-          "text6": "Email notifications",
-          "text7": "CSV export"
+          "text1": "Отслеживать бренды",
+          "text2": "Поиск инфлюенсеров",
+          "text3": "Аналитика",
+          "text4": "Ежедневные обновления данных",
+          "text5": "Интеграция с Slack",
+          "text6": "Уведомления по электронной почте",
+          "text7": "Экспортировать в CSV-файл"
         },
         "mentionSources": {
           "title": "Mention sources"
