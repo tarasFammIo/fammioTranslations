@@ -9,10 +9,15 @@
     "searching": "Поиск...",
     "hints": {
       "toRead": "Переместить выделенное в \"Читать\"",
+      "toReadRevers": "Remove selected from \"Read\"",
       "toMarked": "Переместить выделенное в \"Отмечено\"",
+      "toMarkedRevers": "Remove selected from \"Marked\"",
       "toFavourite": "Переместить выделенное в \"Избранное\"",
+      "toFavouriteRevers": "Remove selected from \"Favourite\"",
       "toSpam": "Переместить выделенное в \"Спам\"",
-      "toTrash": "Переместить выделенное в \"Корзину\""
+      "toSpamRevers": "Remove selected from \"Spam\"",
+      "toTrash": "Переместить выделенное в \"Корзину\"",
+      "toTrashRevers": "Remove selected from \"Trash\""
     }
   },
   "containers": {
