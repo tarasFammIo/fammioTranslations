@@ -1,0 +1,480 @@
+{
+  "components": {
+    "navigation": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "blog": "Blog",
+      "faq": "FAQ"
+    },
+    "buttons": {
+      "logIn": "LOG IN",
+      "signUp": "SIGN UP",
+      "signIn": "SIGN IN"
+    }
+  },
+  "pages": {
+    "404": {
+      "title": "NOT FOUND",
+      "body": "You just hit a route that doesn't exist... the sadness."
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "subtitle": "User Privacy Statement",
+      "body1": {
+        "part1": "These are the Terms and Conditions of Use that apply between you and Fammio Co, referred to as “Famm.io”, “Fammio”, “we”, “us” or “our”. By using ",
+        "part2": " or signing up for an account, you’re agreeing to these Terms, which will result in a legal agreement between you and Fammio Co (“Agreement”). This policy is intended to inform users of the restrictions and obligations that have to be considered and respected when accessing "
+      },
+      "conditions": "Fammio Terms And Conditions",
+      "conditionsBody": "This policy informs users of the terms and conditions that apply when accessing Famm.io.",
+      "account": "Your Fammio Account",
+      "accountBody": "When you create an account on Famm.io, you are responsible for maintaining the security of your account, and for all activities that occur under the account and any other actions taken in connection with the account. You must immediately notify Fammio of any unauthorized use of your account or any other breaches of security. Fammio will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.",
+      "payment": "Payment and renewal of subscription",
+      "paymentBody1": "By selecting a monthly subscription, you agree to pay Fammio the monthly fee indicated for that service. Monthly subscriptions fees may be refunded within 14 days since the day of purchase. The subscription or purchase fee will be specified on your invoice. Unless you notify Fammio before the end of the applicable subscription period that you want to cancel the subscription will renew automatically. Fammio reserves the right to adjust the rate at renewal time. You authorize us to collect the then-applicable monthly fee using any credit card or other payment mechanism we have on record for you. Fammio reserves the right to change the payment terms and fees at any time with a five(5)-day prior written notice to you. Fammio accounts can be canceled by you anytime with 30 days written notice to Fammio. Written notices refer to, but are not limited to, emails. Fammio includes access to email support. “Email support” means the ability to make requests for technical support assistance by email at any time (with reasonable efforts by Fammio to respond within three business days) concerning the use of Fammio. All Fammio support will be provided in accordance with standard Fammio practices, procedures, and policies.",
+      "paymentBody2": "Please note, we do not allow multiple Free Account registrations, be it for commercial or personal use. If we notice multiple registrations, we reserve the right to terminate all involved accounts, old and new, at our own discretion.",
+      "marketing": "Marketing",
+      "marketingBody": "As a user, you give Famm.io a perpetual world-wide license to use your company's assets and logos, unless Fammio agrees in writing otherwise. These assets and logos will be used for marketing and sales efforts only, such as placing your company logo on the famm.io homepage.",
+      "copyright": "Copyright Infringement",
+      "copyrightBody": "As Fammio asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that content located on or linked to by Fammio violates your copyright, you are encouraged to notify Famm.io. Fammio will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. Fammio will terminate a visitor's access to and use of the Services if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of Fammio or others. In the case of such termination, Fammio will have no obligation to provide a refund of any amounts previously paid to Fammio.",
+      "property": "Intellectual Property",
+      "propertyBody": "This Agreement does not transfer from Fammio to you or any third party intellectual property, and all right, title and interest in and to such property will remain (as between the parties) solely with Fammio. Fammio, its logo, and all other trademarks, service marks, graphics and logos used in connection with Fammio, or the Services are trademarks or registered trademarks of Fammio or Fammio licensors. Other trademarks, service marks, graphics and logos used in connection with the Services may be the trademarks of other third parties. Your use of the Services grants you no right or license to reproduce or otherwise use any Fammio or third-party trademarks.",
+      "warranty": "Warranty",
+      "warrantyBody": "The Services are provided “as is”. Fammio and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Fammio nor its suppliers and licensors, makes any warranty that the Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, the Services at your own discretion and risk.",
+      "indemnification": "Indemnification",
+      "indemnificationBody": "You agree to indemnify and hold harmless Fammio, its contractors, its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of the Services, including but not limited to your violation of this Agreement.",
+      "conduct": {
+        "title": "Code of Conduct",
+        "required": "You are required and have to follow these rules:",
+        "requiredBody": "Respect of our rights and the rights of a third party, other users and/or clients relating to their intellectual and industrial property, described in the Legal Notice and other legal conditions set by Fammio. Have proper authorization when posting images or content of a third party or from minors. Do not extract the content published on Fammio, such as images of a third party, content or material, as well as market research and competition analysis, and publish or disseminate itn on other platforms or public portals. Be responsible for the damages caused to a third party for the infringement of Intellectual and Industrial Property Rights and to hold Fammio harmless at all times. Compliance with each of the standards and procedures set forth herein, and in the Legal Notice, Cookie Policy and in the general terms and conditions.",
+        "behaviour": "Behaviour that won’t be tolerated:",
+        "behaviourBody": "It is important that the user is aware that certain behaviors can cause damage to a third party and/or directly to Fammio. Herein, you agree NOT to carry out such behavior on Fammio. It is forbidden to: Use Fammio for purposes related to child pornography, child abuse, and maltreatment affecting children, their families and / or a third party; Use disrespectful language, content and graphics which affect the rights of our other clients/users and / or a third party; Use material that infringes or affects the intellectual or industrial property rights of our other clients/users and / or of a third party, (trademarks, trade names, slogans, pictures or content, among others…). In this regard, you cannot publish any material, belonging to a third party that is registered as their intellectual or industrial property, without the rightful authorization of the owner or after ensuring that when used you have the corresponding license to do so.",
+        "distribute": "It is forbidden to distribute:",
+        "distributeBody": "Any material (through email, forums, guest books, web space or in any other manner) that threatens and/or encourages performing bodily harm or destruction of property or a person; any content considered adult or pornographic, such as explicit sex scenes, nudity, etc.; any material that harasses another user and/or a third party.",
+        "allowed": "It is not allowed to:",
+        "allowedBody1": "insert messages or advertisements without complying with the legal requirements, and/or distribute messages that are considered to be spam and/or carry out spamming behaviors (sending spam or unsolicited messages); collect, or attempt to collect, personal information of a third party without their knowledge or consent and/or without compliance with the Organic Law on Personal Data Protection.",
+        "allowedBody2": "Using the services of Fammio to access or attempt to access the accounts of other users, penetrate, or attempt to penetrate Fammio security measures, its software or the hardware of another entity, and the electronic communication systems or telecommunication system is forbidden.",
+        "forbidden": "It is forbidden to:",
+        "forbiddenBody1": "perform activities that affect the ability of other people or systems, including “denial of services” (DOS) attacks against another network host or individual user; perform deceptive activities that cause the person being affected by them to act on or from them, ultimately leading to injury; take advantage of this platform to propagate hate speech and/or prejudice against minorities, justifying the crimes and/or violations of human rights; extract information, and decompile or process the information obtained from our reports to resell or gain a profit from it; use our information or newsletters content to resell, to cede to third parties, or to use with any commercial purpose, without our consent.",
+        "forbiddenBody2": "It is expressly stated that the use of market research or of the reports obtained through our services, is to analyze the viability of a business and/or project, as well as to assess the interest of investing in it, and not be able to take contrary action against the provisions herein stated.",
+        "forbiddenBody3": "We reserve the right to suspend accounts at our own discretion without warning or explanation.",
+        "contact": "Contact information",
+        "contactBody": {
+          "part1": "Should you have any questions regarding these Terms and Conditions you may contact via "
+        }
+      }
+    },
+    "policy": {
+      "title": "Privacy Policy",
+      "modified": "Last modified: June 22, 2019",
+      "statement": "User Privacy Statement",
+      "description": "This page describes Fammio practices regarding the collection, use, and disclosure of the personally identifiable information (“data”) we collect from and about you when you use Fammio’s services. Data is collected by Fammio Co. of 19 Hill St, Bernardsville, NJ 07924.",
+      "services": {
+        "name": "services",
+        "serv1Part1": "our website at ",
+        "serv1Part2": " and its subdomains including ",
+        "serv1Part3": " and other websites where this Privacy Policy is posted (collectively, the “Site”);",
+        "serv2": "the services, software, applications, plug-ins, components, functionality, or programs provided or offered on the Site now or in the future (collectively, the “Services”);"
+      },
+      "body1": "Any references to ‘we’, ‘our’ or ‘us’ in this policy should be read as references to Fammio Co.“You” or “your” shall refer to any person or entity using the Site or the Services. You can access most of our Site and Services without having to provide any information about yourself. But we do automatically collect some information through the use of Tags (e.g., cookies, pixel tags, web beacons, etc.), so please review the section of this Privacy Policy below to see how we collect and use such information. Additionally, if you don’t provide certain information, you might not be able to access all of the Site and you won’t be able to communicate with us or purchase any of the Services that we`ll offer later. At this time of Beta version, all services are provided for free.",
+      "body2": "For the purpose of this Privacy Policy, personal data means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person (the \"Personal Data\").",
+      "body3": "Please note that by using the Site or Services you agree to the terms in this Privacy Policy. If you do not agree to the terms in this Privacy Policy, please do not use the Site or Services.",
+      "collections": {
+        "title": "Collection, use, and sharing of your data",
+        "collection1Title": "When you register",
+        "collection1Body1": "Collection of data begins when you register for our service as a user. We may ask you to provide your name, email address, a contact telephone number, the company you work for, job position, your address, username and password, and other data relevant to the Services we provide. We capture this information at any https://famm.io domain when you fill in a sign-up form and project settings form. When you register on the Site or use the Services, you give us consent to the Processing of your data.",
+        "collection1Body2": "When you provide consent, you may withdraw it at any time without affecting the lawfulness of the processing that was carried out prior to withdrawing it. Whenever you withdraw consent, you acknowledge and accept that this may have a negative influence on the quality of the Fammio Site and/or Services provided to you. You further agree that Fammio shall not be held liable with respect to any loss and/or damage to your Personal Data if you choose to withdraw consent.",
+        "collection2Title": "Payment information",
+        "collection2Body1": "The Beta version of our Service is free to use. When we provide paid packages, we’ll notify you about this by email. We do not store credit card data when processing payments.",
+        "collection3Title": "When do we collect information?",
+        "collection3Body1": "We collect information when you register on our SIte (famm.io including famm.io subdomains like app.famm.io), and use the Service.",
+        "collection4Title": "Service support and data collection",
+        "collection4Body1": {
+          "part1": "If you contact our support services at ",
+          "part2": " or our support center, we will collect the data we need to categorize your question and respond to it. We also use this data to track potential issues with our Service and customize our support responses for better support service."
+        },
+        "collection4Body2": "We use the collected information to process your registration, provide our Service, provide statements of account and communicate with you on any matter relating to your account and the provision of our Service in general.",
+        "collection4Body3": "We also use data to conduct research and development to improve our Services and provide a better experience to all of our users.",
+        "collection4Body4": "Fammio uses cookies in order to better understand how its applications and websites work and to optimize the online and mobile experience for the customer. By continuing to visit this site you agree to our use of cookies.",
+        "collection4Body5": "If you confirm to receive our emails or other marketing communications, we may communicate with you in writing, via email, or other means available on or through the Services, with transactional or service messages, such as welcoming you to our Services or informing you about updates regarding our application. You have an option to unsubscribe from these emails.",
+        "collection4Body6": "Marketing communications, non-marketing emails, emails about our software usage, purchase confirmations, invoices, technical notices, security alerts, notifications from our software and support and administrative messages may be sent to you even if you do not have an account.",
+        "collection4Body7": "We will track the click rate and the number of emails sent for a better understanding of our marketing campaigns performance.",
+        "collection5Title": "Sharing information",
+        "collection5Body1": "We may share your non-personal data with selected third parties, including our business partners, suppliers, and subcontractors, for the performance of any contract we enter into with them. We may also share your data with analytics and search engine providers that assist us in the improvement of our Site or Service.",
+        "collection5Body2": "We may disclose your information if we have reasons to believe that access, use, preservation or disclosure of such information is reasonably necessary to: satisfy any applicable law, regulation, legal process or other governmental or law enforcement request; detect, prevent, or otherwise address fraud, security or technical issues.",
+        "collection5Body3": "If any third party processes any of your data, we ensure there are sufficient contractual and operational safeguards protecting your data."
+      },
+      "info": {
+        "title": "Accuracy, retention, security, your rights, and deletion of personal information",
+        "body1": "We can keep data about you for as long as it is reasonably necessary for us to provide the Services. We anonymize any data about you as long as it is reasonably practical once you no longer use our Services. We may also retain information as required by law.",
+        "body2": {
+          "part1": "You may access, update, change, correct, and delete most of your personal information through the Site or Services (the app). Additionally, by contacting us at ",
+          "part2": ", you may request access to the data that we have about you and request that it be updated, rectified, deleted, or blocked. You also have the right to receive from Fammio a structured and machine-readable format of all the Personal Data you provided to us.",
+          "part3": "If you believe your personal data is processed for illegal purposes on the basis of Fammio legitimate interests, under the GDPR, you may object to such processing at any time. To do so, please contact: "
+        }
+      },
+      "security": {
+        "title": "Security",
+        "body1": "While you are using Fammio Services, we attribute the highest importance to the security and integrity of your personal data.",
+        "body2": "All data is encrypted via SSL/TLS when transmitted from Fammio servers to third party services. Fammio implements industry standard security measures to protect personal data from unauthorized disclosure.",
+        "body3": "Fammio deems that data protection is the main priority. We never sell personal data and we carry out all processing operations in strict compliance with the EU General Data Protection Regulation (\"GDPR\") (specifically but not limited to Article 6(1)(b) to (f) and Article 28)",
+        "body4": "In accordance with the GDPR, Fammio engages to take all pertinent precautions in order to preserve the security of the data and to protect it against any accidental or unlawful destruction, accidental loss, corruption, unauthorized circulation or access, as well as against any other form of unlawful processing or disclosure to unauthorized persons.",
+        "body5": "In case of DDos or hacker attacks, Fammio undertakes to inform you thereof without undue delay and to use its best efforts to take all possible measures to neutralize the intrusion and minimize the impact."
+      },
+      "updates": {
+        "title": "Updates to the Privacy Policy",
+        "body": "Fammio may update this Privacy Policy. This Privacy Policy may change from time to time. If we change this Privacy Policy, we will update the “Last modified” date above and provide notice about the update in the Services. Continued use of the Site or Services after the effective date of a Privacy Policy change will constitute your agreement of those changes."
+      }
+    }
+  },
+  "layouts": {
+    "comparing": {
+      "start": "Create your first project in 2 minutes. Free trial. No credit card required.",
+      "button": "Try it for Free",
+      "reviews": "What do customers say about us?",
+      "vs": "vs.",
+      "info": {
+        "text1": "Social listening means tracking mentions of your brand on social media, news channels, and forums.",
+        "text2": "It is essential to know what people are talking about your and your competitors' brand on the web. Moreover, customers love when companies interact with them on social media.",
+        "text3": "Using a brand monitoring tool will help you to build a strong social media reputation, open new channels for promotion, and help you to be a few steps ahead of the competition.",
+        "text4": "You need to pay attention to the main features and price before choosing the best tool for your business.",
+        "mentions": "Mentions",
+        "mentionsAbout": " - is the number of possible mentions to track on social media or the web.",
+        "keyword": "Keyword",
+        "keywordAbout": " - is a word or phrase used to find relevant mentions of a topic, a product, a place, a service, or anything else you want to track.",
+        "supported": "Platforms supported",
+        "supportedAbout": " - this field shows you on which platforms tool will monitor your search query. Here you must consider what channels are the most important for you."
+      },
+      "table": {
+        "price": "Price",
+        "min": "Min plan",
+        "mid": "Mid plan",
+        "max": "Max plan",
+        "trial": "Trial",
+        "minFeatures": "minimum plan features",
+        "projects": "Projects",
+        "keywords": "Keywords",
+        "mentionsMont": "Mentions / mo",
+        "analytics": "Projects performance analytics",
+        "updates": "Data updates",
+        "export": "Data export",
+        "filters": "Mention filters",
+        "search": "Search of niche influencers",
+        "support": "Support",
+        "email": "(only email)",
+        "analysis": "Sentiment analysis",
+        "slack": "Slack Integration",
+        "platform": "Platforms supported",
+        "button": "Sign up for Free"
+      }
+    },
+    "faq": {
+      "title": "Hello, how can we help?",
+      "subtitle": "Browse through the most frequently asked questions.",
+      "noData": "Sorry, nothing was found. Try to search again.",
+      "questions": "General questions",
+      "how": "How to"
+    },
+    "pricing": {
+      "faq": {
+        "title": "FAQ",
+        "text1": "Frequently Asked Questions.",
+        "text2": "Here are some common questions about Famm.io",
+        "text3": "Start monitor your brand with Fammio today!",
+        "text4": "Create your first project in 2 minutes. Free trial. No credit card required."
+      },
+      "package": {
+        "mont": "/mo"
+      },
+      "pricing": {
+        "title": "Catch up with the latest mentions!",
+        "info": " 2 minute set up | 14 days money-back guarantee"
+      },
+      "promo": {
+        "title1": "Why our",
+        "title2": "customers choose",
+        "track": "To track your brand's performance"
+      }
+    },
+    "home": {
+      "title": "Social media monitoring is easy with us",
+      "description": "Engage in online conversations around your brand to get valuable consumer insights and manage your brand’s reputation",
+      "required": "No credit card required | Money back guarantee",
+      "required2": "No credit card required",
+      "promo": {
+        "over": "Over",
+        "mentions": "mentions tracked last year",
+        "start": "Start Using Famm.io for Free!"
+      },
+      "secondPart": {
+        "text1": "Find out what the buzz around ",
+        "text2": "your brand",
+        "text3": " is all about",
+        "text4": "It’s hard to keep track of every mention out there, when there is so much information noise and distractions.",
+        "text5": "We monitor millions of web pages - social media, news blogs and forums - for you to get the freshest mentions of your or your competitor’s brand every day.",
+        "text6": "Jump into ",
+        "text7": "key",
+        "text8": " online conversations across the web - we’ll show you where",
+        "text9": "Monitor all your brand mentions, key social conversations and discussions.",
+        "text10": "Respond to positive comments to gain brand fans and react to negative feedback for swift damage control.",
+        "text11": "Define web and social media channels where your brand is mentioned most frequently.",
+        "text12": "Research ",
+        "text13": "influencer",
+        "text14": " marketing possibilities to strengthen your brand",
+        "text15": "Identify influencers in your niche to reach your target audience easier. Market to your ideal customers through a powerful social presence. Discover which influencers work with your competitors.",
+        "text16": "Measure your performance against your ",
+        "text17": "competitors",
+        "text18": "Use Fammio’s clean and transparent analytics dashboard to track your performance by platform and observe the trends in your brand’s development over time."
+      },
+      "homeTestimonials": {
+        "question": "Why our customers choose ",
+        "customer1": "On @SlushHQ, I found out about @fammioapp. I use it both for retrospective brand mentions, and for influencers for future PR. They develop new features every week and open to new ideas.",
+        "customer2": "Fammio helped me to cut down the time on my search for right places across the Web with my potential leads. I wish I had this tool 3 years ago. 😈",
+        "customer3": "We started using Fammio to find bloggers writing the content about Internet Marketing, and I have to say it works really well. We gained SEO rankings increase after making quality publications in the local media and got better sales afterwards.",
+        "customer4": "When I discovered Famm.io, it was like finding what I thought would never exist: a tool that allows you to monitor your brand further than just mentions.",
+        "start": "Start tracking mentions with Fammio today!",
+        "create": "Create your first project in 2 minutes. Free trial. No credit card required upfront."
+      }
+    },
+    "footer": {
+      "dark": {
+        "text1": "Try",
+        "text2": " for efficient monitoring of your daily real-time mentions with high quality data capture.",
+        "policy": "Privacy Policy",
+        "terms": "Terms and Conditions"
+      },
+      "light": {
+        "text1": "Have any other questions?",
+        "text2": "Don't hesitate to reach us on live chat or on"
+      },
+      "purple": {
+        "text1": "Try Fammio for efficient monitoring of your daily real-time",
+        "text2": " mentions with high quality data capture.",
+        "copyright": "Copyright © 2020 by Famm.io. All rights reserved.",
+        "policy": "Privacy Policy",
+        "terms": "Terms and Conditions",
+        "resources": {
+          "title": "resources",
+          "features": "Features",
+          "pricing": "Pricing",
+          "blog": "Blog",
+          "FAQ": "FAQ"
+        },
+        "compare": {
+          "title": "Compare tools",
+          "brand24": "Fammio vs. Brand24",
+          "brandMentions": "Fammio vs. BrandMentions",
+          "mediatoolkit": "Fammio vs. Mediatoolkit",
+          "mention": "Fammio vs. Mention",
+          "google": "Fammio vs. Google Alerts"
+        },
+        "text3": "Have any other questions? ",
+        "text4": "Don't hesitate to reach us on live chat or on."
+      }
+    },
+    "main": {
+      "buttons": {
+        "signUp": "SIGN UP FREE",
+        "tracking": "Start tracking mentions",
+        "logIn": "Log in",
+        "signUp2": "Sign up"
+      }
+    }
+  },
+  "companies": {
+    "fammio": {
+      "minPlan": "$29/month",
+      "midPlan": "$99/month",
+      "maxPlan": "$159/month",
+      "trial": "14-day trial, no credit card required",
+      "projects": "5 projects",
+      "dataUpdates": "Update every 24h"
+    },
+    "brand24": {
+      "title": "Fammio vs. Brand24: Social listening tools comparison ",
+      "metaDescription": "Choose which tool is better for you - Fammio or Brand24. Define the main features to consider before purchasing a social listening tool.",
+      "minPlan": "$49/month",
+      "midPlan": "$99/month",
+      "maxPlan": "$199/month",
+      "trial": "14-day trial, no credit card required",
+      "projects": "-",
+      "dataUpdates": "Update every 12h"
+    },
+    "brandMentions": {
+      "title": "Fammio vs. BrandMentions: Social listening tools comparison ",
+      "metaDescription": "Choose which tool is better for you - Fammio or BrandMentions. Define the main features to consider before purchasing a social listening tool.",
+      "minPlan": "$49/month",
+      "midPlan": "$79/month",
+      "maxPlan": "$299/month",
+      "trial": "14-day trial, credit card required",
+      "projects": "1 project",
+      "dataUpdates": "Update every 24h"
+    },
+    "google": {
+      "title": "Fammio vs. Google Alerts: Social listening tools comparison ",
+      "metaDescription": "Choose which tool is better for you - Fammio or Google Alerts. Define the main features to consider before purchasing a social listening tool.",
+      "minPlan": "",
+      "midPlan": "Free",
+      "maxPlan": "",
+      "trial": "No trial",
+      "projects": "",
+      "keywords": "Unlimited",
+      "mentionsMoth": "Unlimited",
+      "mentionFilters": "Simple filters",
+      "support": "Google support",
+      "dataUpdates": "Real time alerts, daily, weekly"
+    },
+    "mediatoolkit": {
+      "title": "Fammio vs. Mediatoolkit: Social listening tools comparison ",
+      "metaDescription": "Choose which tool is better for you - Fammio or Mediatoolkit. Define the main features to consider before purchasing a social listening tool.",
+      "minPlan": "$117/month",
+      "midPlan": "$444/month",
+      "maxPlan": "$1100/month",
+      "trial": "14-day trial, no credit card required",
+      "projects": "-",
+      "dataUpdates": "Update every 24h",
+      "support": "No customer success manager"
+    },
+    "mention": {
+      "title": "Fammio vs. Mention: Social listening tools comparison ",
+      "metaDescription": "Choose which tool is better for you - Fammio or Mention. Define the main features to consider before purchasing a social listening tool.",
+      "name": "Mention",
+      "minPlan": "$29/month",
+      "midPlan": "$99/month",
+      "maxPlan": "$450+/month",
+      "trial": "14-day trial, no credit card required",
+      "projects": "2 projects",
+      "keywords": "-",
+      "dataUpdates": "Receive an email when there is a significant increase in volume of mentions"
+    }
+  },
+  "faqData": {
+    "generalFAQ": {
+      "question1": "What is Famm.io?",
+      "answer1": "Fammio is a tool for social listening and brand monitoring that can help find content creators and influencers, analyze competitors, and track mentions all over the web. Our goal is to make brand monitoring quick and simple.",
+      "question2": "Who can use Famm.io?",
+      "answer2": "This tool is perfect for marketing managers, brand managers, PR and SMM managers, and any startup teams who want to monitor competitors and track brand mentions online.",
+      "question3": "What Sources Are Monitored by Famm.io?",
+      "answer3": "Fammio monitors YouTube, Facebook, Twitter, Instagram, Reddit, Telegram, news, blogs, forums and all online media."
+    },
+    "howToFaq": {
+      "question1": "How can I start monitoring my company mentions?",
+      "answer1": "Simply add your company to projects, choose the brand category, and add related keywords to start monitoring for mentions. That's it!",
+      "question2": "How many projects can I add to Famm.io?",
+      "answer2": "That depends on the plan you're using. You can add 1 project in our free plan, and up to 10 projects in our Pro plans.",
+      "question3": "How does the mention search work?",
+      "answer3": "As soon as you create a project, you find a historic 30-day depth search from all the aforementioned media platforms. Twitter has a search depth of 6 days. The purpose of this feature is to let you work with new mentions which are updated every 2 hours.",
+      "question4": "How do I find out about limits?",
+      "answer4": "You can check the limits according to your chosen plan on our pricing page. If you want to see how much of your monthly mentions quota you have left for the month, you can find this info in the side panel on the left under \"Mentions Found\".",
+      "question5": "How Famm.io can help me grow business?",
+      "answer5": "Fammio is a B2B tool designed specifically for growing your brand awareness and business. With us, you can discover your best performing social media channels and web resources by tracking customers’ comments and mentions of your brand. Fammio also lets you easily monitor and analyze your competitors' mentions and quickly find content creators that will help you effectively promote your service or product. ",
+      "question6": "Can I download the results of my searches?",
+      "answer6": "Yes! In the lower right corner, you can find the \"Export CSV\" button and download all the web mentions and researched information to your computer.  Have any other questions? Don't hesitate to reach us on live chat or on."
+    }
+  },
+  "pricingData": {
+    "packages": {
+      "Essential": {
+        "title": "Essential",
+        "descr": "Crafted for solopreneurs and small businesses.",
+        "limits": {
+          "title1": "Monitor 5 projects",
+          "title2": "Track 15 keywords",
+          "title3": "Uncover 15,000 mentions"
+        },
+        "features": {
+          "text1": "Monitor brands",
+          "text2": "Search influencers",
+          "text3": "Analytics",
+          "text4": "Data updated daily",
+          "text5": "Slack integration",
+          "text6": "Email notifications",
+          "text7": "CSV export"
+        },
+        "mentionSources": {
+          "title": "Mention sources"
+        }
+      },
+      "Expert": {
+        "title": "Expert",
+        "descr": "Suited for medium to large companies with developed social presence",
+        "limits": {
+          "title1": "Monitor 10 projects",
+          "title2": "Track 30 keywords",
+          "title3": "Uncover 30,000 mentions"
+        },
+        "features": {
+          "text1": "Monitor brands",
+          "text2": "Search influencers",
+          "text3": "Analytics",
+          "text4": "Data updated",
+          "updates4": "2 times a day",
+          "text5": "Custom account setup",
+          "text6": "Slack integration",
+          "text7": "Email notifications",
+          "text8": "CSV export"
+        },
+        "mentionSources": {
+          "title": "Mention sources"
+        }
+      },
+      "Enterprise": {
+        "title": "Enterprise",
+        "descr": "Best for enterprise companies and agencies",
+        "limits": {
+          "title1": "Monitor 20 projects",
+          "title2": "Track 60 keywords",
+          "title3": "Uncover 100,000 mentions"
+        },
+        "features": {
+          "text1": "Monitor brands",
+          "text2": "Search influencers",
+          "text3": "Analytics",
+          "text4": "Data updated",
+          "updates4": "2 times a day",
+          "text5": "Custom account setup",
+          "text6": "Slack integration",
+          "text7": "Email notifications",
+          "text8": "CSV export"
+        },
+        "mentionSources": {
+          "title": "Mention sources"
+        }
+      }
+    },
+    "pricingFeatures": {
+      "title1": "Project:",
+      "text1": "A project can be defined as a set of keywords and characteristics that describe your brand or the niche you want to track. Every project has its own metrics and separate analytics.",
+      "title2": "Mention:",
+      "text2": "A mention is a comment or a reference to a brand or a keyword on social media (Twitter, Instagram, YouTube or Facebook) or on the web.",
+      "title3": "Keyword:",
+      "text3": "A keyword is a word or phrase used to find relevant mentions of a topic, a product, a place, a service or anything else you want to track.",
+      "title4": "Mention sources:",
+      "text4": "Famm.io lets you track social media sources such as Twitter, Facebook, YouTube, Instagram, Telegram, Reddit and any websites (blogs, forums, newsfeeds) all across the internet."
+    },
+    "firstPricingFAQ": {
+      "question1": "What sources does Famm.io monitor?",
+      "answer1": "Fammio monitors YouTube, Facebook, Twitter, Instagram, Telegram, News and other web sources.",
+      "question2": "Do you have a free trial?",
+      "answer2": "Fammio offers a freemium which is perfect for testing the service and giving brand monitoring and social media listening a try. Free Fammio plan includes monitoring of 1 project, 250 monthly mentions, and tracking of 3 keywords. With the free plan, you will also have access to influencer, competitor, and project analytics.",
+      "question3": "What is mention?",
+      "answer3": "Mention is something people say about your brand anywhere across the internet. Any trace left by a brand in an article or blog post, any comment or like on Twitter, Instagram, YouTube or Facebook that can be found and selected according to its relevance to a particular field we can call a mention.",
+      "question4": "What is the difference between a brand mention and a keyword?",
+      "answer4": "A keyword is a word or a phrase you use to find relevant information about the product, place, service etc. People use them daily in search engines when they look for information, content, and products, so you should pick and use relevant keywords to make your brand visible to others. Meanwhile, a mention is usually connected to your brand name or a person’s name, and is more accurate than a keyword.",
+      "question5": "Can I export my mentions?",
+      "answer5": "Yes, you can export your project's mentions in a CSV file."
+    },
+    "secondPricingFAQ": {
+      "question1": "Do you offer historical data?",
+      "answer1": "Yes! A deep 90-day search is available in all plans. The updates refresh every 24 hours.",
+      "question2": "What payment methods do you accept?",
+      "answer2": "You can use credit card or PayPal.",
+      "question3": "What does \"custom account set-up\" include?",
+      "answer3": "Custom account set-up includes personalized help and guidance of our accounts manager in launching your project, including setting your keywords and finding your first mentions.",
+      "question4": "Do you offer demos?",
+      "answer4": "Yes, we do. You can reach out to denis@famm.io and we will schedule a demo call with you.",
+      "question5": "What is the search depth for mentions?",
+      "answer5": "Fammio offers multiple search depth options for mentions. You can choose a preferred time period for mentions search - 24 hours, 7 days, 15 days, 30 days, or 3 months from the current date. You can even choose a custom date range according to your preferences.",
+      "question6": "Have any questions?",
+      "answer6": "Don't hesitate to contact us via live chat or on"
+    }
+  }
+}
