@@ -9,10 +9,15 @@
     "searching": "Searching...",
     "hints": {
       "toRead": "Move selected to \"Read\"",
+      "toReadRevers": "Remove selected from \"Read\"",
       "toMarked": "Move selected to \"Marked\"",
+      "toMarkedRevers": "Remove selected from \"Marked\"",
       "toFavourite": "Move selected to \"Favourite\"",
+      "toFavouriteRevers": "Remove selected from \"Favourite\"",
       "toSpam": "Move selected to \"Spam\"",
-      "toTrash": "Move selected to \"Trash\""
+      "toSpamRevers": "Remove selected from \"Spam\"",
+      "toTrash": "Move selected to \"Trash\"",
+      "toTrashRevers": "Remove selected from \"Trash\""
     }
   },
   "containers": {
