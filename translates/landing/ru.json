@@ -15,7 +15,7 @@
   "layouts": {
     "faq": {
       "title": "Привет, чем мы можем вам помочь?",
-      "subtitle": "Browse through the most frequently asked questions.",
+      "subtitle": "Просматривайте наиболее часто задаваемые вопросы.",
       "noData": "К сожалению, ничего не найдено. Попробуйте снова.",
       "questions": "Общие вопросы",
       "how": "Как"
@@ -43,7 +43,7 @@
     },
     "home": {
       "title": "Social media monitoring is easy with us",
-      "description": "Engage in online conversations around your brand to get valuable consumer insights and manage your brand’s reputation",
+      "description": "Участвуйте в обсуждениях в сети, чтобы получить ценные представления о вас от потребителей. Благодаря этому управляйте репутацией бренда",
       "required": "No credit card required | Money back guarantee",
       "required2": "Кредитной карты не нужно",
       "promo": {
@@ -78,7 +78,7 @@
         "customer3": "We started using Fammio to find bloggers writing the content about Internet Marketing, and I have to say it works really well. We gained SEO rankings increase after making quality publications in the local media and got better sales afterwards.",
         "customer4": "When I discovered Famm.io, it was like finding what I thought would never exist: a tool that allows you to monitor your brand further than just mentions.",
         "start": "Start tracking mentions with Fammio today!",
-        "create": "Create your first project in 2 minutes. Free trial. No credit card required upfront."
+        "create": "Создайте свой первый проект за 2 минуты. Пробная версия бесплатно. Кредитной карты не нужно."
       }
     },
     "footer": {
@@ -94,7 +94,7 @@
       },
       "purple": {
         "text1": "Try Fammio for efficient monitoring of your daily real-time",
-        "text2": " mentions with high quality data capture.",
+        "text2": " упоминания с высоким качеством сбора данных.",
         "copyright": "Copyright © Famm.io 2020. Все права защищены.",
         "policy": "Политика конфиденциальности",
         "terms": "Правила и Условия",
@@ -161,12 +161,12 @@
           "text1": "Отслеживать бренды",
           "text2": "Поиск инфлюенсеров",
           "text3": "Аналитика",
-          "text4": "Data updated",
-          "updates4": "2 times a day",
-          "text5": "Custom account setup",
-          "text6": "Slack integration",
-          "text7": "Email notifications",
-          "text8": "CSV export"
+          "text4": "Данные обновлены",
+          "updates4": "2 раза в день",
+          "text5": "Настройка учетной записи",
+          "text6": "Интеграция с Slack",
+          "text7": "Уведомления по электронной почте",
+          "text8": "Экспортировать в CSV-файл"
         },
         "mentionSources": {
           "title": "Mention sources"
@@ -176,20 +176,20 @@
         "title": "Enterprise",
         "descr": "Best for enterprise companies and agencies",
         "limits": {
-          "title1": "Monitor 20 projects",
-          "title2": "Track 60 keywords",
-          "title3": "Uncover 100,000 mentions"
+          "title1": "Отслеживать 20 проектов",
+          "title2": "Отслеживать 60 ключевых слов",
+          "title3": "Откройте для себя 100,000 упоминаний"
         },
         "features": {
-          "text1": "Monitor brands",
-          "text2": "Search influencers",
-          "text3": "Analytics",
-          "text4": "Data updated",
-          "updates4": "2 times a day",
-          "text5": "Custom account setup",
-          "text6": "Slack integration",
-          "text7": "Email notifications",
-          "text8": "CSV export"
+          "text1": "Отслеживать бренды",
+          "text2": "Поиск инфлюенсеров",
+          "text3": "Аналитика",
+          "text4": "Данные обновлены",
+          "updates4": "2 раза в день",
+          "text5": "Настройка учетной записи",
+          "text6": "Интеграция с Slack",
+          "text7": "Уведомления по электронной почте",
+          "text8": "Экспортировать в CSV-файл"
         },
         "mentionSources": {
           "title": "Mention sources"
@@ -215,41 +215,41 @@
       "answer3": "Mention is something people say about your brand anywhere across the internet. Any trace left by a brand in an article or blog post, any comment or like on Twitter, Instagram, YouTube or Facebook that can be found and selected according to its relevance to a particular field we can call a mention.",
       "question4": "What is the difference between a brand mention and a keyword?",
       "answer4": "A keyword is a word or a phrase you use to find relevant information about the product, place, service etc. People use them daily in search engines when they look for information, content, and products, so you should pick and use relevant keywords to make your brand visible to others. Meanwhile, a mention is usually connected to your brand name or a person’s name, and is more accurate than a keyword.",
-      "question5": "Can I export my mentions?",
-      "answer5": "Yes, you can export your project's mentions in a CSV file."
+      "question5": "Могу ли я экспортировать свои упоминания?",
+      "answer5": "Да, вы можете экспортировать упоминания вашего проекта в CSV- файл."
     },
     "secondPricingFAQ": {
       "question1": "Do you offer historical data?",
       "answer1": "Yes! A deep 90-day search is available in all plans. The updates refresh every 24 hours.",
       "question2": "What payment methods do you accept?",
-      "answer2": "You can use credit card or PayPal.",
-      "question3": "What does \"custom account set-up\" include?",
+      "answer2": "Вы можете использовать кредитную карту или PayPal.",
+      "question3": "Что включает в себя \"настройка пользовательского аккаунта\"?",
       "answer3": "Custom account set-up includes personalized help and guidance of our accounts manager in launching your project, including setting your keywords and finding your first mentions.",
       "question4": "Do you offer demos?",
       "answer4": "Yes, we do. You can reach out to denis@famm.io and we will schedule a demo call with you.",
       "question5": "What is the search depth for mentions?",
       "answer5": "Fammio offers multiple search depth options for mentions. You can choose a preferred time period for mentions search - 24 hours, 7 days, 15 days, 30 days, or 3 months from the current date. You can even choose a custom date range according to your preferences.",
-      "question6": "Have any questions?",
+      "question6": "У вас еще остались вопросы?",
       "answer6": "Don't hesitate to contact us via live chat or on"
     }
   },
   "faqData": {
     "generalFAQ": {
-      "question1": "What is Famm.io?",
+      "question1": "Что такое Famm.io?",
       "answer1": "Fammio is a tool for social listening and brand monitoring that can help find content creators and influencers, analyze competitors, and track mentions all over the web. Our goal is to make brand monitoring quick and simple.",
-      "question2": "Who can use Famm.io?",
+      "question2": "Кому подойдет Famm.io?",
       "answer2": "This tool is perfect for marketing managers, brand managers, PR and SMM managers, and any startup teams who want to monitor competitors and track brand mentions online.",
       "question3": "What Sources Are Monitored by Famm.io?",
       "answer3": "Fammio monitors YouTube, Facebook, Twitter, Instagram, Reddit, Telegram, news, blogs, forums and all online media."
     },
     "howToFaq": {
-      "question1": "How can I start monitoring my company mentions?",
+      "question1": "Как начать отслеживать упоминания о моей компании?",
       "answer1": "Simply add your company to projects, choose the brand category, and add related keywords to start monitoring for mentions. That's it!",
       "question2": "How many projects can I add to Famm.io?",
       "answer2": "That depends on the plan you're using. You can add 1 project in our free plan, and up to 10 projects in our Pro plans.",
       "question3": "How does the mention search work?",
       "answer3": "As soon as you create a project, you find a historic 30-day depth search from all the aforementioned media platforms. Twitter has a search depth of 6 days. The purpose of this feature is to let you work with new mentions which are updated every 2 hours.",
-      "question4": "How do I find out about limits?",
+      "question4": "Как мне узнать о лимитах?",
       "answer4": "You can check the limits according to your chosen plan on our pricing page. If you want to see how much of your monthly mentions quota you have left for the month, you can find this info in the side panel on the left under \"Mentions Found\".",
       "question5": "How Famm.io can help me grow business?",
       "answer5": "Fammio is a B2B tool designed specifically for growing your brand awareness and business. With us, you can discover your best performing social media channels and web resources by tracking customers’ comments and mentions of your brand. Fammio also lets you easily monitor and analyze your competitors' mentions and quickly find content creators that will help you effectively promote your service or product. ",
