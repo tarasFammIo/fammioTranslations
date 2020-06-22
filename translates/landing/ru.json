@@ -45,7 +45,7 @@
       "title": "Social media monitoring is easy with us",
       "description": "Engage in online conversations around your brand to get valuable consumer insights and manage your brand’s reputation",
       "required": "No credit card required | Money back guarantee",
-      "required2": "No credit card required",
+      "required2": "Кредитной карты не нужно",
       "promo": {
         "over": "Over",
         "mentions": "mentions tracked last year",
@@ -57,8 +57,8 @@
         "text3": " is all about",
         "text4": "It’s hard to keep track of every mention out there, when there is so much information noise and distractions.",
         "text5": "We monitor millions of web pages - social media, news blogs and forums - for you to get the freshest mentions of your or your competitor’s brand every day.",
-        "text6": "Jump into ",
-        "text7": "key",
+        "text6": "Перейти к ",
+        "text7": "ключ",
         "text8": " online conversations across the web - we’ll show you where",
         "text9": "Monitor all your brand mentions, key social conversations and discussions.",
         "text10": "Respond to positive comments to gain brand fans and react to negative feedback for swift damage control.",
@@ -83,30 +83,30 @@
     },
     "footer": {
       "dark": {
-        "text1": "Try",
-        "text2": " for efficient monitoring of your daily real-time mentions with high quality data capture.",
-        "policy": "Privacy Policy",
-        "terms": "Terms and Conditions"
+        "text1": "Попробовать",
+        "text2": " для отслеживания ежедневных упоминаний о вашем бренде в реальном времени. Только качественный сбор данных.",
+        "policy": "Политика конфиденциальности",
+        "terms": "Правила и Условия"
       },
       "light": {
-        "text1": "Have any other questions?",
+        "text1": "У вас еще остались вопросы?",
         "text2": "Don't hesitate to reach us on live chat or on"
       },
       "purple": {
         "text1": "Try Fammio for efficient monitoring of your daily real-time",
         "text2": " mentions with high quality data capture.",
-        "copyright": "Copyright © 2020 by Famm.io. All rights reserved.",
-        "policy": "Privacy Policy",
-        "terms": "Terms and Conditions",
+        "copyright": "Copyright © Famm.io 2020. Все права защищены.",
+        "policy": "Политика конфиденциальности",
+        "terms": "Правила и Условия",
         "resources": {
-          "title": "resources",
-          "features": "Features",
-          "pricing": "Pricing",
-          "blog": "Blog",
+          "title": "ресурсы",
+          "features": "Возможности",
+          "pricing": "Цены",
+          "blog": "Блог",
           "FAQ": "FAQ"
         },
         "compare": {
-          "title": "Compare tools",
+          "title": "Сравнить инструменты",
           "brand24": "Fammio vs. Brand24",
           "brandMentions": "Fammio vs. BrandMentions",
           "mediatoolkit": "Fammio vs. Mediatoolkit",
@@ -146,21 +146,21 @@
           "text7": "Экспортировать в CSV-файл"
         },
         "mentionSources": {
-          "title": "Mention sources"
+          "title": "Источники упоминания"
         }
       },
       "Expert": {
         "title": "Expert",
-        "descr": "Suited for medium to large companies with developed social presence",
+        "descr": "Подходит для средних и крупных компаний с большой социальной активностью",
         "limits": {
-          "title1": "Monitor 10 projects",
-          "title2": "Track 30 keywords",
-          "title3": "Uncover 30,000 mentions"
+          "title1": "Отслеживать 10 проектов",
+          "title2": "Отслеживать 30 ключевых слов",
+          "title3": "Откройте для себя 30,000 упоминаний"
         },
         "features": {
-          "text1": "Monitor brands",
-          "text2": "Search influencers",
-          "text3": "Analytics",
+          "text1": "Отслеживать бренды",
+          "text2": "Поиск инфлюенсеров",
+          "text3": "Аналитика",
           "text4": "Data updated",
           "updates4": "2 times a day",
           "text5": "Custom account setup",
@@ -197,11 +197,11 @@
       }
     },
     "pricingFeatures": {
-      "title1": "Project:",
+      "title1": "Проект:",
       "text1": "A project can be defined as a set of keywords and characteristics that describe your brand or the niche you want to track. Every project has its own metrics and separate analytics.",
-      "title2": "Mention:",
+      "title2": "Упоминание:",
       "text2": "A mention is a comment or a reference to a brand or a keyword on social media (Twitter, Instagram, YouTube or Facebook) or on the web.",
-      "title3": "Keyword:",
+      "title3": "Ключевое слово:",
       "text3": "A keyword is a word or phrase used to find relevant mentions of a topic, a product, a place, a service or anything else you want to track.",
       "title4": "Mention sources:",
       "text4": "Famm.io lets you track social media sources such as Twitter, Facebook, YouTube, Instagram, Telegram, Reddit and any websites (blogs, forums, newsfeeds) all across the internet."
@@ -211,7 +211,7 @@
       "answer1": "Fammio monitors YouTube, Facebook, Twitter, Instagram, Telegram, News and other web sources.",
       "question2": "Do you have a free trial?",
       "answer2": "Fammio offers a freemium which is perfect for testing the service and giving brand monitoring and social media listening a try. Free Fammio plan includes monitoring of 1 project, 250 monthly mentions, and tracking of 3 keywords. With the free plan, you will also have access to influencer, competitor, and project analytics.",
-      "question3": "What is mention?",
+      "question3": "Что такое упоминание?",
       "answer3": "Mention is something people say about your brand anywhere across the internet. Any trace left by a brand in an article or blog post, any comment or like on Twitter, Instagram, YouTube or Facebook that can be found and selected according to its relevance to a particular field we can call a mention.",
       "question4": "What is the difference between a brand mention and a keyword?",
       "answer4": "A keyword is a word or a phrase you use to find relevant information about the product, place, service etc. People use them daily in search engines when they look for information, content, and products, so you should pick and use relevant keywords to make your brand visible to others. Meanwhile, a mention is usually connected to your brand name or a person’s name, and is more accurate than a keyword.",
